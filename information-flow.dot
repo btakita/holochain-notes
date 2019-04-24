@@ -11,6 +11,7 @@ digraph	"Software Flow"	{
     Guide_Book[href="https://developer.holochain.org/guide/latest/welcome.html"]
     Dev_Pulse[href="https://medium.com/holochain"]
     Community_Matters[href="https://medium.com/holochain/tagged/community-matters"]
+    Now_Building[href="https://medium.com/holochain/tagged/now-building"]
 
 	Source_Code -> Software_Releases;
 	Source_Code -> Core_Developers -> Source_Code;
@@ -25,15 +26,24 @@ digraph	"Software Flow"	{
 	Guide_Book -> Business_Owners;
 	Press_Releases -> News;
 	Press_Releases -> Business_Owners;
+	Press_Releases -> Markets;
 	News -> Dev_Pulse -> News;
 	News -> Programmers;
 	News -> Blogs -> News;
 	News -> Business_Owners -> News;
 	News -> End_Users -> News;
 	Dev_Pulse -> Programmers -> Dev_Pulse;
-    Community_Matters -> Community -> Community;
+    Community_Matters -> Community -> Community_Matters;
+	Now_Building -> Community -> Now_Building;
+	Dev_Pulse -> Community_Matters -> Dev_Pulse -> Now_Building -> Dev_Pulse;
+	Community_Matters -> Now_Building -> Community_Matters;
+	Blogs -> Team -> Blogs;
+	Blogs -> Core_Developers -> Blogs;
 	Blogs -> Programmers -> Blogs;
 	Blogs -> Business_Owners -> Blogs;
+	Markets -> Hosts -> Markets;
+	Markets -> Investors -> Markets;
+	Markets -> End_Users -> Markets;
 	Team -> Core_Developers -> Team;
 	Team -> Press_Releases;
 	Team -> Documentation -> Team;
@@ -73,6 +83,4 @@ digraph	"Software Flow"	{
 	Programmers -> Business_Owners -> Programmers;
 	Business_Owners -> End_Users -> Business_Owners;
 	Business_Owners -> Markets -> Business_Owners;
-	Markets -> Investors -> Markets;
-	Markets -> End_Users -> Markets;
 }
