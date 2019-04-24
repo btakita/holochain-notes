@@ -15,7 +15,15 @@ digraph	"Software Flow"	{
 
 	Source_Code -> Software_Releases;
 	Source_Code -> Core_Developers -> Source_Code;
-	Libraries -> dApps;
+	Software_Releases -> API_Docs;
+	Software_Releases -> News;
+	Software_Releases -> Libraries;
+	Software_Releases -> dApps;
+	Software_Releases -> Hosts;
+	Software_Releases -> Press_Releases;
+	Software_Releases -> Documentation;
+	Software_Releases -> Programmers;
+ 	Libraries -> dApps;
 	dApps -> Business_Owners;
 	dApps -> End_Users -> dApps;
 	Documentation -> Dev_Pulse;
@@ -34,9 +42,8 @@ digraph	"Software Flow"	{
 	News -> End_Users -> News;
 	Dev_Pulse -> Programmers -> Dev_Pulse;
     Community_Matters -> Community -> Community_Matters;
-	Now_Building -> Community -> Now_Building;
 	Dev_Pulse -> Community_Matters -> Dev_Pulse -> Now_Building -> Dev_Pulse;
-	Community_Matters -> Now_Building -> Community_Matters;
+	Now_Building -> Community -> Now_Building -> Community_Matters -> Now_Building;
 	Blogs -> Team -> Blogs;
 	Blogs -> Core_Developers -> Blogs;
 	Blogs -> Programmers -> Blogs;
@@ -56,14 +63,6 @@ digraph	"Software Flow"	{
 	Core_Developers -> Programmers -> Core_Developers;
 	Core_Developers -> Software_Releases;
 	Core_Developers -> Guide_Book -> Core_Developers;
-	Software_Releases -> API_Docs;
-	Software_Releases -> News;
-	Software_Releases -> Libraries;
-	Software_Releases -> dApps;
-	Software_Releases -> Hosts;
-	Software_Releases -> Press_Releases;
-	Software_Releases -> Documentation;
-	Software_Releases -> Programmers;
 	Hosts -> dApps -> Hosts;
 	Hosts -> Business_Owners -> Hosts;
 	Hosts -> End_Users -> Hosts;
