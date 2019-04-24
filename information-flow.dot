@@ -1,4 +1,12 @@
 digraph	"Software Flow"	{
+	Community -> Team -> Community;
+	Community -> "Core Developers" -> Community;
+	Community -> Markets -> Community;
+	Community -> Blogs -> Community;
+	Community -> News -> Community;
+	Community -> Programmers -> Community;
+	Community -> "Business Owners" -> Community;
+	Community -> Documentation -> Community;
 	Team -> "Core Developers" -> Team;
 	Team -> "Press Releases";
 	Team -> Documentation -> Team;
@@ -34,7 +42,6 @@ digraph	"Software Flow"	{
 	Programmers -> "Dev News" -> Programmers;
 	Programmers -> Apps -> Programmers;
 	Programmers -> Libraries -> Programmers;
-	Programmers -> Blogs -> Programmers;
 	Programmers -> "Business Owners" -> Programmers;
 	Libraries -> Apps;
 	Apps -> "Business Owners";
