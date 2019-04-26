@@ -13,8 +13,8 @@
 <g id="node1" class="node">
 <title>Whitepapers</title>
 <g id="a_node1"><a xlink:href="https://holo.host/whitepapers/" xlink:title="Whitepapers">
-<ellipse fill="none" stroke="#000000" cx="519" cy="-1170" rx="69.5877" ry="18"/>
-<text text-anchor="middle" x="519" y="-1166.3" font-family="Times,serif" font-size="14.00" fill="#000000">Whitepapers</text>
+<ellipse fill="none" stroke="#000000" cx="1094" cy="-1170" rx="69.5877" ry="18"/>
+<text text-anchor="middle" x="1094" y="-1166.3" font-family="Times,serif" font-size="14.00" fill="#000000">Whitepapers</text>
 </a>
 </g>
 </g>
@@ -22,83 +22,82 @@
 <g id="node2" class="node">
 <title>Source_Code</title>
 <g id="a_node2"><a xlink:href="https://github.com/holochain/holochain-rust" xlink:title="Source_Code">
-<ellipse fill="none" stroke="#000000" cx="519" cy="-1098" rx="70.6878" ry="18"/>
-<text text-anchor="middle" x="519" y="-1094.3" font-family="Times,serif" font-size="14.00" fill="#000000">Source_Code</text>
+<ellipse fill="none" stroke="#000000" cx="1094" cy="-1098" rx="70.6878" ry="18"/>
+<text text-anchor="middle" x="1094" y="-1094.3" font-family="Times,serif" font-size="14.00" fill="#000000">Source_Code</text>
 </a>
 </g>
 </g>
 <!-- Whitepapers&#45;&gt;Source_Code -->
 <g id="edge1" class="edge">
 <title>Whitepapers&#45;&gt;Source_Code</title>
-<path fill="none" stroke="#000000" d="M519,-1151.8314C519,-1144.131 519,-1134.9743 519,-1126.4166"/>
-<polygon fill="#000000" stroke="#000000" points="522.5001,-1126.4132 519,-1116.4133 515.5001,-1126.4133 522.5001,-1126.4132"/>
+<path fill="none" stroke="#000000" d="M1094,-1151.8314C1094,-1144.131 1094,-1134.9743 1094,-1126.4166"/>
+<polygon fill="#000000" stroke="#000000" points="1097.5001,-1126.4132 1094,-1116.4133 1090.5001,-1126.4133 1097.5001,-1126.4132"/>
 </g>
 <!-- Core_Developers -->
 <g id="node4" class="node">
 <title>Core_Developers</title>
 <g id="a_node4"><a xlink:href="https://github.com/holochain/holochain-rust/graphs/contributors" xlink:title="Core_Developers">
-<ellipse fill="none" stroke="#000000" cx="519" cy="-1026" rx="89.0842" ry="18"/>
-<text text-anchor="middle" x="519" y="-1022.3" font-family="Times,serif" font-size="14.00" fill="#000000">Core_Developers</text>
+<ellipse fill="none" stroke="#000000" cx="842" cy="-1026" rx="89.0842" ry="18"/>
+<text text-anchor="middle" x="842" y="-1022.3" font-family="Times,serif" font-size="14.00" fill="#000000">Core_Developers</text>
 </a>
 </g>
 </g>
 <!-- Source_Code&#45;&gt;Core_Developers -->
 <g id="edge3" class="edge">
 <title>Source_Code&#45;&gt;Core_Developers</title>
-<path fill="none" stroke="#000000" d="M519,-1069.5726C519,-1064.6792 519,-1059.5904 519,-1054.6901"/>
-<polygon fill="#000000" stroke="#000000" points="515.5001,-1069.8313 519,-1079.8314 522.5001,-1069.8314 515.5001,-1069.8313"/>
-<polygon fill="#000000" stroke="#000000" points="522.5001,-1054.4132 519,-1044.4133 515.5001,-1054.4133 522.5001,-1054.4132"/>
+<path fill="none" stroke="#000000" d="M1037.1309,-1081.7517C997.3408,-1070.3831 944.2291,-1055.2083 903.4633,-1043.5609"/>
+<polygon fill="#000000" stroke="#000000" points="1036.3196,-1085.1599 1046.8963,-1084.5418 1038.2427,-1078.4292 1036.3196,-1085.1599"/>
+<polygon fill="#000000" stroke="#000000" points="904.2225,-1040.1379 893.6457,-1040.7559 902.2994,-1046.8685 904.2225,-1040.1379"/>
 </g>
 <!-- Software_Releases -->
 <g id="node5" class="node">
 <title>Software_Releases</title>
 <g id="a_node5"><a xlink:href="https://github.com/holochain/holochain-rust/releases" xlink:title="Software_Releases">
-<ellipse fill="none" stroke="#000000" cx="1060" cy="-882" rx="98.2828" ry="18"/>
-<text text-anchor="middle" x="1060" y="-878.3" font-family="Times,serif" font-size="14.00" fill="#000000">Software_Releases</text>
+<ellipse fill="none" stroke="#000000" cx="968" cy="-882" rx="98.2828" ry="18"/>
+<text text-anchor="middle" x="968" y="-878.3" font-family="Times,serif" font-size="14.00" fill="#000000">Software_Releases</text>
 </a>
 </g>
 </g>
 <!-- Source_Code&#45;&gt;Software_Releases -->
 <g id="edge2" class="edge">
 <title>Source_Code&#45;&gt;Software_Releases</title>
-<path fill="none" stroke="#000000" d="M586.8451,-1092.5934C791.7216,-1075.5071 1387.6574,-1019.8877 1347,-954"/>
-<path fill="none" stroke="#000000" d="M1347,-954C1349.5255,-914.8372 1246.8045,-896.7746 1163.5664,-888.5758"/>
-<polygon fill="#000000" stroke="#000000" points="1163.8059,-885.0829 1153.5204,-887.6241 1163.1457,-892.0517 1163.8059,-885.0829"/>
+<path fill="none" stroke="#000000" d="M1094,-1079.9503C1094,-1065.3878 1094,-1044.375 1094,-1026"/>
+<path fill="none" stroke="#000000" d="M1094,-1026C1094,-989.8167 1056,-990.1833 1056,-954"/>
 </g>
 <!-- Dev_Quick_Start -->
 <g id="node8" class="node">
 <title>Dev_Quick_Start</title>
 <g id="a_node8"><a xlink:href="https://developer.holochain.org/start.html" xlink:title="Dev_Quick_Start">
-<ellipse fill="none" stroke="#000000" cx="1270" cy="-810" rx="87.9851" ry="18"/>
-<text text-anchor="middle" x="1270" y="-806.3" font-family="Times,serif" font-size="14.00" fill="#000000">Dev_Quick_Start</text>
+<ellipse fill="none" stroke="#000000" cx="1232" cy="-810" rx="87.9851" ry="18"/>
+<text text-anchor="middle" x="1232" y="-806.3" font-family="Times,serif" font-size="14.00" fill="#000000">Dev_Quick_Start</text>
 </a>
 </g>
 </g>
 <!-- Source_Code&#45;&gt;Dev_Quick_Start -->
 <g id="edge5" class="edge">
 <title>Source_Code&#45;&gt;Dev_Quick_Start</title>
-<path fill="none" stroke="#000000" d="M1347,-954C1349.9557,-908.1665 1318.3327,-862.6732 1294.713,-835.4454"/>
-<polygon fill="#000000" stroke="#000000" points="1297.269,-833.0531 1287.9932,-827.9334 1292.0518,-837.7201 1297.269,-833.0531"/>
+<path fill="none" stroke="#000000" d="M1094,-1026C1094,-945.6914 1162.5809,-871.2668 1203.0497,-834.3408"/>
+<polygon fill="#000000" stroke="#000000" points="1205.618,-836.7394 1210.7399,-827.4649 1200.9523,-831.521 1205.618,-836.7394"/>
 </g>
 <!-- Programmers -->
 <g id="node18" class="node">
 <title>Programmers</title>
-<ellipse fill="none" stroke="#000000" cx="393" cy="-234" rx="74.9875" ry="18"/>
-<text text-anchor="middle" x="393" y="-230.3" font-family="Times,serif" font-size="14.00" fill="#000000">Programmers</text>
+<ellipse fill="none" stroke="#000000" cx="901" cy="-234" rx="74.9875" ry="18"/>
+<text text-anchor="middle" x="901" y="-230.3" font-family="Times,serif" font-size="14.00" fill="#000000">Programmers</text>
 </g>
 <!-- Source_Code&#45;&gt;Programmers -->
-<g id="edge117" class="edge">
+<g id="edge123" class="edge">
 <title>Source_Code&#45;&gt;Programmers</title>
-<path fill="none" stroke="#000000" d="M440.1596,-1092.5227C294.9655,-1080.2561 0,-1044.2321 0,-954 0,-954 0,-954 0,-450 0,-308.2978 198.6497,-258.9044 313.4835,-242.1896"/>
-<polygon fill="#000000" stroke="#000000" points="440.0942,-1096.0292 450.3487,-1093.3653 440.6712,-1089.053 440.0942,-1096.0292"/>
-<polygon fill="#000000" stroke="#000000" points="314.2276,-245.6196 323.6441,-240.7638 313.2548,-238.6875 314.2276,-245.6196"/>
+<path fill="none" stroke="#000000" d="M1152.3563,-1081.9701C1237.5641,-1056.8127 1386,-1005.5844 1386,-954 1386,-954 1386,-954 1386,-378 1386,-335.1444 1104.1176,-273.9391 970.1475,-247.2702"/>
+<polygon fill="#000000" stroke="#000000" points="1151.1641,-1078.672 1142.5456,-1084.8341 1153.1258,-1085.3915 1151.1641,-1078.672"/>
+<polygon fill="#000000" stroke="#000000" points="970.4752,-243.7672 959.9856,-245.2571 969.1148,-250.6337 970.4752,-243.7672"/>
 </g>
 <!-- Team -->
 <g id="node3" class="node">
 <title>Team</title>
 <g id="a_node3"><a xlink:href="https://holo.host/team/" xlink:title="Team">
-<ellipse fill="none" stroke="#000000" cx="646" cy="-882" rx="35.9954" ry="18"/>
-<text text-anchor="middle" x="646" y="-878.3" font-family="Times,serif" font-size="14.00" fill="#000000">Team</text>
+<ellipse fill="none" stroke="#000000" cx="480" cy="-882" rx="35.9954" ry="18"/>
+<text text-anchor="middle" x="480" y="-878.3" font-family="Times,serif" font-size="14.00" fill="#000000">Team</text>
 </a>
 </g>
 </g>
@@ -106,597 +105,615 @@
 <g id="node10" class="node">
 <title>Guide_Book</title>
 <g id="a_node10"><a xlink:href="https://developer.holochain.org/guide/latest/welcome.html" xlink:title="Guide_Book">
-<ellipse fill="none" stroke="#000000" cx="1060" cy="-810" rx="65.7887" ry="18"/>
-<text text-anchor="middle" x="1060" y="-806.3" font-family="Times,serif" font-size="14.00" fill="#000000">Guide_Book</text>
+<ellipse fill="none" stroke="#000000" cx="896" cy="-810" rx="65.7887" ry="18"/>
+<text text-anchor="middle" x="896" y="-806.3" font-family="Times,serif" font-size="14.00" fill="#000000">Guide_Book</text>
 </a>
 </g>
 </g>
 <!-- Team&#45;&gt;Guide_Book -->
-<g id="edge73" class="edge">
+<g id="edge79" class="edge">
 <title>Team&#45;&gt;Guide_Book</title>
-<path fill="none" stroke="#000000" d="M688.1257,-871.4061C699.4093,-868.7733 711.6313,-866.1051 723,-864 838.5738,-842.5992 869.4898,-849.7418 985,-828 990.4283,-826.9783 996.0545,-825.8185 1001.674,-824.5916"/>
-<polygon fill="#000000" stroke="#000000" points="686.9966,-868.077 678.0785,-873.797 688.6171,-874.8869 686.9966,-868.077"/>
-<polygon fill="#000000" stroke="#000000" points="1002.7502,-827.937 1011.7374,-822.3262 1001.2128,-821.1079 1002.7502,-827.937"/>
+<path fill="none" stroke="#000000" d="M517.5239,-867.4861C521.6942,-866.1747 525.9113,-864.976 530,-864 656.7579,-833.7422 692.7703,-851.2432 821,-828 826.6553,-826.9749 832.5226,-825.7875 838.3718,-824.5212"/>
+<polygon fill="#000000" stroke="#000000" points="516.3257,-864.1963 507.9606,-870.6982 518.5546,-870.832 516.3257,-864.1963"/>
+<polygon fill="#000000" stroke="#000000" points="839.1642,-827.9305 848.1578,-822.33 837.6347,-821.0996 839.1642,-827.9305"/>
 </g>
 <!-- News -->
 <g id="node14" class="node">
 <title>News</title>
-<ellipse fill="none" stroke="#000000" cx="752" cy="-306" rx="36.2938" ry="18"/>
-<text text-anchor="middle" x="752" y="-302.3" font-family="Times,serif" font-size="14.00" fill="#000000">News</text>
+<ellipse fill="none" stroke="#000000" cx="698" cy="-306" rx="36.2938" ry="18"/>
+<text text-anchor="middle" x="698" y="-302.3" font-family="Times,serif" font-size="14.00" fill="#000000">News</text>
 </g>
 <!-- Team&#45;&gt;News -->
-<g id="edge75" class="edge">
+<g id="edge81" class="edge">
 <title>Team&#45;&gt;News</title>
-<path fill="none" stroke="#000000" d="M682.4269,-865.8546C716.8315,-850.5478 763.4199,-829.6452 765,-828 842.7516,-747.0469 860,-706.244 860,-594 860,-594 860,-594 860,-450 860,-397.6471 813.7485,-352.1463 781.7806,-326.9497"/>
-<polygon fill="#000000" stroke="#000000" points="680.8101,-862.743 673.0936,-870.0029 683.6533,-869.1396 680.8101,-862.743"/>
-<polygon fill="#000000" stroke="#000000" points="783.6656,-323.9851 773.5958,-320.6909 779.4134,-329.5456 783.6656,-323.9851"/>
+<path fill="none" stroke="#000000" d="M511.0222,-862.3889C542.492,-842.9905 592.9866,-813.2098 639,-792 681.5191,-772.4009 711.1402,-794.3478 738,-756 785.9467,-687.5466 726.3454,-421.2135 705.0292,-333.8952"/>
+<polygon fill="#000000" stroke="#000000" points="508.9338,-859.5657 502.2815,-867.8118 512.6242,-865.5139 508.9338,-859.5657"/>
+<polygon fill="#000000" stroke="#000000" points="708.3646,-332.8023 702.5723,-323.931 701.5681,-334.4781 708.3646,-332.8023"/>
 </g>
 <!-- Press_Releases -->
 <g id="node17" class="node">
 <title>Press_Releases</title>
-<ellipse fill="none" stroke="#000000" cx="894" cy="-810" rx="81.7856" ry="18"/>
-<text text-anchor="middle" x="894" y="-806.3" font-family="Times,serif" font-size="14.00" fill="#000000">Press_Releases</text>
+<ellipse fill="none" stroke="#000000" cx="730" cy="-810" rx="81.7856" ry="18"/>
+<text text-anchor="middle" x="730" y="-806.3" font-family="Times,serif" font-size="14.00" fill="#000000">Press_Releases</text>
 </g>
 <!-- Team&#45;&gt;Press_Releases -->
-<g id="edge72" class="edge">
+<g id="edge78" class="edge">
 <title>Team&#45;&gt;Press_Releases</title>
-<path fill="none" stroke="#000000" d="M677.1583,-872.9541C716.5521,-861.5171 785.1976,-841.5878 834.7145,-827.2119"/>
-<polygon fill="#000000" stroke="#000000" points="835.7209,-830.5643 844.3485,-824.4149 833.7692,-823.8419 835.7209,-830.5643"/>
+<path fill="none" stroke="#000000" d="M508.6829,-871.2197C515.6239,-868.7372 523.0471,-866.1861 530,-864 574.9134,-849.8783 626.19,-836.0789 665.578,-825.9648"/>
+<polygon fill="#000000" stroke="#000000" points="666.5021,-829.3412 675.3246,-823.4749 664.7694,-822.559 666.5021,-829.3412"/>
 </g>
 <!-- Markets -->
 <g id="node21" class="node">
 <title>Markets</title>
-<ellipse fill="none" stroke="#000000" cx="659" cy="-738" rx="49.2915" ry="18"/>
-<text text-anchor="middle" x="659" y="-734.3" font-family="Times,serif" font-size="14.00" fill="#000000">Markets</text>
+<ellipse fill="none" stroke="#000000" cx="371" cy="-738" rx="49.2915" ry="18"/>
+<text text-anchor="middle" x="371" y="-734.3" font-family="Times,serif" font-size="14.00" fill="#000000">Markets</text>
 </g>
 <!-- Team&#45;&gt;Markets -->
-<g id="edge77" class="edge">
+<g id="edge83" class="edge">
 <title>Team&#45;&gt;Markets</title>
-<path fill="none" stroke="#000000" d="M640.1661,-853.8948C637.3595,-836.0519 635.3191,-812.5363 639,-792 640.5973,-783.0882 643.5674,-773.7238 646.7391,-765.3422"/>
-<polygon fill="#000000" stroke="#000000" points="636.7514,-854.687 641.9188,-863.9362 643.6471,-853.4833 636.7514,-854.687"/>
-<polygon fill="#000000" stroke="#000000" points="649.996,-766.6241 650.4849,-756.0406 643.5027,-764.0093 649.996,-766.6241"/>
+<path fill="none" stroke="#000000" d="M444.0939,-865.1499C428.2791,-856.1198 410.6779,-843.6127 399,-828 385.4375,-809.8678 378.356,-785.0422 374.7118,-766.0568"/>
+<polygon fill="#000000" stroke="#000000" points="442.6825,-868.3661 453.1407,-870.0621 446.0227,-862.2144 442.6825,-868.3661"/>
+<polygon fill="#000000" stroke="#000000" points="378.1599,-765.4553 373.0216,-756.1899 371.2604,-766.6373 378.1599,-765.4553"/>
 </g>
 <!-- Blogs -->
 <g id="node22" class="node">
 <title>Blogs</title>
-<ellipse fill="none" stroke="#000000" cx="494" cy="-666" rx="36.2938" ry="18"/>
-<text text-anchor="middle" x="494" y="-662.3" font-family="Times,serif" font-size="14.00" fill="#000000">Blogs</text>
+<ellipse fill="none" stroke="#000000" cx="544" cy="-666" rx="36.2938" ry="18"/>
+<text text-anchor="middle" x="544" y="-662.3" font-family="Times,serif" font-size="14.00" fill="#000000">Blogs</text>
 </g>
 <!-- Team&#45;&gt;Blogs -->
-<g id="edge55" class="edge">
+<g id="edge61" class="edge">
 <title>Team&#45;&gt;Blogs</title>
-<path fill="none" stroke="#000000" d="M627.993,-856.4111C598.6783,-814.7533 540.9853,-732.7685 511.8029,-691.2988"/>
-<polygon fill="#000000" stroke="#000000" points="625.2008,-858.5251 633.8181,-864.6889 630.9255,-854.4966 625.2008,-858.5251"/>
-<polygon fill="#000000" stroke="#000000" points="514.6462,-689.2575 506.0289,-683.0937 508.9215,-693.286 514.6462,-689.2575"/>
+<path fill="none" stroke="#000000" d="M504.2701,-858.9184C512.1764,-850.0222 520.1569,-839.274 525,-828 543.7784,-784.2867 546.0924,-728.1757 545.4646,-694.7672"/>
+<polygon fill="#000000" stroke="#000000" points="501.7059,-856.536 497.422,-866.2262 506.8138,-861.3226 501.7059,-856.536"/>
+<polygon fill="#000000" stroke="#000000" points="548.951,-694.2512 545.1584,-684.3585 541.954,-694.4571 548.951,-694.2512"/>
 </g>
 <!-- Community -->
 <g id="node23" class="node">
 <title>Community</title>
-<ellipse fill="none" stroke="#000000" cx="449" cy="-954" rx="64.189" ry="18"/>
-<text text-anchor="middle" x="449" y="-950.3" font-family="Times,serif" font-size="14.00" fill="#000000">Community</text>
+<ellipse fill="none" stroke="#000000" cx="247" cy="-954" rx="64.189" ry="18"/>
+<text text-anchor="middle" x="247" y="-950.3" font-family="Times,serif" font-size="14.00" fill="#000000">Community</text>
 </g>
 <!-- Investors -->
 <g id="node24" class="node">
 <title>Investors</title>
-<ellipse fill="none" stroke="#000000" cx="702" cy="-810" rx="53.8905" ry="18"/>
-<text text-anchor="middle" x="702" y="-806.3" font-family="Times,serif" font-size="14.00" fill="#000000">Investors</text>
+<ellipse fill="none" stroke="#000000" cx="462" cy="-810" rx="53.8905" ry="18"/>
+<text text-anchor="middle" x="462" y="-806.3" font-family="Times,serif" font-size="14.00" fill="#000000">Investors</text>
 </g>
 <!-- Team&#45;&gt;Investors -->
-<g id="edge79" class="edge">
+<g id="edge85" class="edge">
 <title>Team&#45;&gt;Investors</title>
-<path fill="none" stroke="#000000" d="M665.606,-856.7923C670.9088,-849.9744 676.6542,-842.5875 681.9794,-835.7408"/>
-<polygon fill="#000000" stroke="#000000" points="662.6479,-854.8947 659.2712,-864.937 668.1734,-859.1923 662.6479,-854.8947"/>
-<polygon fill="#000000" stroke="#000000" points="685.0583,-837.483 688.435,-827.4407 679.5328,-833.1854 685.0583,-837.483"/>
+<path fill="none" stroke="#000000" d="M472.9636,-853.8545C471.6952,-848.781 470.3722,-843.4887 469.102,-838.4078"/>
+<polygon fill="#000000" stroke="#000000" points="469.6369,-854.9788 475.4578,-863.8314 476.4279,-853.281 469.6369,-854.9788"/>
+<polygon fill="#000000" stroke="#000000" points="472.4242,-837.2658 466.6033,-828.4133 465.6332,-838.9636 472.4242,-837.2658"/>
 </g>
 <!-- Core_Developers&#45;&gt;Team -->
-<g id="edge71" class="edge">
+<g id="edge77" class="edge">
 <title>Core_Developers&#45;&gt;Team</title>
-<path fill="none" stroke="#000000" d="M541.6796,-1000.2845C565.1258,-973.6999 601.4593,-932.5028 624.4723,-906.4094"/>
-<polygon fill="#000000" stroke="#000000" points="538.8174,-998.2385 534.8279,-1008.0535 544.0674,-1002.8686 538.8174,-998.2385"/>
-<polygon fill="#000000" stroke="#000000" points="627.168,-908.6442 631.1576,-898.8292 621.9181,-904.014 627.168,-908.6442"/>
+<path fill="none" stroke="#000000" d="M756.4896,-1014.7965C688.6165,-1004.8702 599.9982,-989.2987 568,-972 539.1083,-956.3807 513.8097,-928.0812 497.8432,-907.3735"/>
+<polygon fill="#000000" stroke="#000000" points="756.3704,-1018.3155 766.7679,-1016.28 757.3705,-1011.3872 756.3704,-1018.3155"/>
+<polygon fill="#000000" stroke="#000000" points="500.5891,-905.2013 491.7902,-899.2997 494.9883,-909.4003 500.5891,-905.2013"/>
 </g>
 <!-- Core_Developers&#45;&gt;Software_Releases -->
-<g id="edge89" class="edge">
+<g id="edge95" class="edge">
 <title>Core_Developers&#45;&gt;Software_Releases</title>
-<path fill="none" stroke="#000000" d="M606.124,-1022.2699C683.6498,-1016.9056 799.254,-1003.8349 895,-972 943.2558,-955.9553 993.9084,-926.0908 1026.1554,-905.1793"/>
-<polygon fill="#000000" stroke="#000000" points="1028.3083,-907.9528 1034.7453,-899.5376 1024.4654,-902.1019 1028.3083,-907.9528"/>
+<path fill="none" stroke="#000000" d="M914.7492,-1015.5674C976.7882,-1004.5591 1056,-984.5264 1056,-954"/>
+<path fill="none" stroke="#000000" d="M1056,-954C1056,-931.5753 1038.6711,-914.8745 1019.3929,-903.2336"/>
+<polygon fill="#000000" stroke="#000000" points="1020.8904,-900.061 1010.4534,-898.2387 1017.4759,-906.1718 1020.8904,-900.061"/>
 </g>
 <!-- API_Docs -->
 <g id="node9" class="node">
 <title>API_Docs</title>
 <g id="a_node9"><a xlink:href="https://developer.holochain.org/api/latest/hdk/" xlink:title="API_Docs">
-<ellipse fill="none" stroke="#000000" cx="158" cy="-810" rx="53.8905" ry="18"/>
-<text text-anchor="middle" x="158" y="-806.3" font-family="Times,serif" font-size="14.00" fill="#000000">API_Docs</text>
+<ellipse fill="none" stroke="#000000" cx="1072" cy="-810" rx="53.8905" ry="18"/>
+<text text-anchor="middle" x="1072" y="-806.3" font-family="Times,serif" font-size="14.00" fill="#000000">API_Docs</text>
 </a>
 </g>
 </g>
 <!-- Core_Developers&#45;&gt;API_Docs -->
-<g id="edge81" class="edge">
+<g id="edge87" class="edge">
 <title>Core_Developers&#45;&gt;API_Docs</title>
-<path fill="none" stroke="#000000" d="M421.1197,-1022.2177C335.6597,-1016.8021 220.3699,-1003.6847 188,-972 152.4332,-937.1861 151.3558,-874.8574 154.3147,-838.4999"/>
-<polygon fill="#000000" stroke="#000000" points="420.9296,-1025.7125 431.1235,-1022.8255 421.3542,-1018.7254 420.9296,-1025.7125"/>
-<polygon fill="#000000" stroke="#000000" points="157.8408,-838.4024 155.3289,-828.1096 150.8739,-837.7223 157.8408,-838.4024"/>
+<path fill="none" stroke="#000000" d="M930.2725,-1015.9195C986.3675,-1007.5557 1051.7482,-993.5035 1070,-972 1101.6412,-934.7217 1091.232,-873.3697 1081.2915,-837.829"/>
+<polygon fill="#000000" stroke="#000000" points="929.6769,-1012.4691 920.281,-1017.3649 930.6791,-1019.397 929.6769,-1012.4691"/>
+<polygon fill="#000000" stroke="#000000" points="1084.6059,-836.6953 1078.4023,-828.1066 1077.8959,-838.6893 1084.6059,-836.6953"/>
 </g>
 <!-- Core_Developers&#45;&gt;Guide_Book -->
 <g id="edge27" class="edge">
 <title>Core_Developers&#45;&gt;Guide_Book</title>
-<path fill="none" stroke="#000000" d="M568.9912,-1006.0405C673.08,-964.4819 911.7952,-869.1724 1013.1293,-828.7136"/>
-<polygon fill="#000000" stroke="#000000" points="567.6523,-1002.8063 559.6629,-1009.7649 570.2479,-1009.3073 567.6523,-1002.8063"/>
-<polygon fill="#000000" stroke="#000000" points="1014.5085,-831.9317 1022.4979,-824.9731 1011.9129,-825.4307 1014.5085,-831.9317"/>
+<path fill="none" stroke="#000000" d="M841.4738,-997.603C841.7276,-964.5425 844.8691,-908.758 861,-864 864.4861,-854.3273 869.989,-844.6304 875.6082,-836.1767"/>
+<polygon fill="#000000" stroke="#000000" points="837.974,-997.8984 841.4838,-1007.895 844.974,-997.8915 837.974,-997.8984"/>
+<polygon fill="#000000" stroke="#000000" points="878.556,-838.0689 881.4263,-827.8702 872.8225,-834.0529 878.556,-838.0689"/>
 </g>
 <!-- Dev_Pulse -->
 <g id="node11" class="node">
 <title>Dev_Pulse</title>
 <g id="a_node11"><a xlink:href="https://medium.com/holochain" xlink:title="Dev_Pulse">
-<ellipse fill="none" stroke="#000000" cx="574" cy="-162" rx="58.4896" ry="18"/>
-<text text-anchor="middle" x="574" y="-158.3" font-family="Times,serif" font-size="14.00" fill="#000000">Dev_Pulse</text>
+<ellipse fill="none" stroke="#000000" cx="760" cy="-90" rx="58.4896" ry="18"/>
+<text text-anchor="middle" x="760" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">Dev_Pulse</text>
 </a>
 </g>
 </g>
 <!-- Core_Developers&#45;&gt;Dev_Pulse -->
-<g id="edge85" class="edge">
+<g id="edge91" class="edge">
 <title>Core_Developers&#45;&gt;Dev_Pulse</title>
-<path fill="none" stroke="#000000" d="M613.6754,-1019.4202C701.4144,-1012.074 835.1606,-997.6913 949,-972 1163.9092,-923.4993 1386,-958.314 1386,-738 1386,-738 1386,-738 1386,-306 1386,-230.5737 835.7922,-181.7497 641.197,-166.8406"/>
-<polygon fill="#000000" stroke="#000000" points="613.1532,-1015.9513 603.4741,-1020.26 613.7276,-1022.9277 613.1532,-1015.9513"/>
-<polygon fill="#000000" stroke="#000000" points="641.3348,-163.3411 631.0983,-166.0729 640.8042,-170.3209 641.3348,-163.3411"/>
+<path fill="none" stroke="#000000" d="M744.7801,-1021.4645C572.1402,-1012.9207 225.3054,-993.3684 174,-972 62.9569,-925.7511 38,-858.2894 38,-738 38,-738 38,-738 38,-234 38,-167.4692 515.5872,-113.9063 693.9058,-96.226"/>
+<polygon fill="#000000" stroke="#000000" points="744.7261,-1024.966 754.8861,-1021.9619 745.0703,-1017.9744 744.7261,-1024.966"/>
+<polygon fill="#000000" stroke="#000000" points="694.3379,-99.7005 703.9467,-95.2371 693.6517,-92.7342 694.3379,-99.7005"/>
 </g>
 <!-- Core_Developers&#45;&gt;Programmers -->
-<g id="edge87" class="edge">
+<g id="edge93" class="edge">
 <title>Core_Developers&#45;&gt;Programmers</title>
-<path fill="none" stroke="#000000" d="M421.7396,-1021.5133C330.3948,-1015.5137 201.9606,-1001.9215 162,-972 -23.7105,-832.9447 164,-682.0017 164,-450 164,-450 164,-450 164,-378 164,-301.9037 255.7388,-264.4481 323.0871,-247.2037"/>
-<polygon fill="#000000" stroke="#000000" points="421.6473,-1025.0144 431.8494,-1022.1565 422.0918,-1018.0286 421.6473,-1025.0144"/>
-<polygon fill="#000000" stroke="#000000" points="323.9598,-250.5934 332.8329,-244.8039 322.2861,-243.7965 323.9598,-250.5934"/>
+<path fill="none" stroke="#000000" d="M927.8344,-1014.8551C977.3263,-1006.643 1040.04,-993.1459 1093,-972 1207.1126,-926.437 1268.8592,-935.1483 1329,-828 1336.8313,-814.0476 1337.5262,-805.539 1329,-792 1259.9319,-682.325 1066,-795.611 1066,-666 1066,-666 1066,-666 1066,-378 1066,-316.5132 1000.1547,-275.2455 951.6549,-253.1887"/>
+<polygon fill="#000000" stroke="#000000" points="927.114,-1011.426 917.8012,-1016.4778 928.2317,-1018.3362 927.114,-1011.426"/>
+<polygon fill="#000000" stroke="#000000" points="952.7736,-249.8571 942.2108,-249.0331 949.9543,-256.2643 952.7736,-249.8571"/>
 </g>
 <!-- Core_Developers&#45;&gt;Blogs -->
-<g id="edge57" class="edge">
+<g id="edge63" class="edge">
 <title>Core_Developers&#45;&gt;Blogs</title>
-<path fill="none" stroke="#000000" d="M453.2236,-1009.0198C420.3284,-999.0607 385.5113,-985.7586 376,-972 311.0394,-878.0314 420.3788,-743.402 470.7129,-689.5627"/>
-<polygon fill="#000000" stroke="#000000" points="452.301,-1012.3967 462.8827,-1011.8686 454.2812,-1005.6826 452.301,-1012.3967"/>
-<polygon fill="#000000" stroke="#000000" points="473.337,-691.8821 477.6834,-682.2198 468.2601,-687.0628 473.337,-691.8821"/>
+<path fill="none" stroke="#000000" d="M756.0471,-1014.5242C680.3281,-999.0142 582,-963.2341 582,-882 582,-882 582,-882 582,-810 582,-768.1368 566.7997,-721.6262 555.6263,-693.0925"/>
+<polygon fill="#000000" stroke="#000000" points="755.612,-1018.0054 766.0983,-1016.493 756.9576,-1011.136 755.612,-1018.0054"/>
+<polygon fill="#000000" stroke="#000000" points="558.8596,-691.7518 551.8736,-683.7865 552.3676,-694.3698 558.8596,-691.7518"/>
 </g>
 <!-- Core_Developers&#45;&gt;Community -->
-<g id="edge99" class="edge">
+<g id="edge105" class="edge">
 <title>Core_Developers&#45;&gt;Community</title>
-<path fill="none" stroke="#000000" d="M494.4775,-1000.7769C487.5971,-993.6999 480.1216,-986.0108 473.2567,-978.9498"/>
-<polygon fill="#000000" stroke="#000000" points="492.2163,-1003.4721 501.6966,-1008.2022 497.2353,-998.5925 492.2163,-1003.4721"/>
-<polygon fill="#000000" stroke="#000000" points="475.5846,-976.3232 466.1043,-971.593 470.5657,-981.2028 475.5846,-976.3232"/>
+<path fill="none" stroke="#000000" d="M755.3286,-1015.512C636.5406,-1001.1377 425.5005,-975.6001 316.4794,-962.4076"/>
+<polygon fill="#000000" stroke="#000000" points="755.0842,-1019.0079 765.4322,-1016.7347 755.9252,-1012.0586 755.0842,-1019.0079"/>
+<polygon fill="#000000" stroke="#000000" points="316.6021,-958.897 306.254,-961.1702 315.7611,-965.8463 316.6021,-958.897"/>
 </g>
 <!-- Hosts -->
 <g id="node6" class="node">
 <title>Hosts</title>
 <g id="a_node6"><a xlink:href="https://holo.host/host/" xlink:title="Hosts">
-<ellipse fill="none" stroke="#000000" cx="572" cy="-522" rx="37.8943" ry="18"/>
-<text text-anchor="middle" x="572" y="-518.3" font-family="Times,serif" font-size="14.00" fill="#000000">Hosts</text>
+<ellipse fill="none" stroke="#000000" cx="430" cy="-522" rx="37.8943" ry="18"/>
+<text text-anchor="middle" x="430" y="-518.3" font-family="Times,serif" font-size="14.00" fill="#000000">Hosts</text>
 </a>
 </g>
 </g>
 <!-- Software_Releases&#45;&gt;Hosts -->
 <g id="edge10" class="edge">
 <title>Software_Releases&#45;&gt;Hosts</title>
-<path fill="none" stroke="#000000" d="M1106.2426,-865.9998C1129.8537,-854.5917 1153.7202,-836.5166 1154,-810"/>
-<path fill="none" stroke="#000000" d="M1154,-810C1155.2681,-689.8324 750.7784,-570.0728 615.4784,-533.3838"/>
-<polygon fill="#000000" stroke="#000000" points="616.03,-529.9077 605.4639,-530.6869 614.2097,-536.6669 616.03,-529.9077"/>
+<path fill="none" stroke="#000000" d="M977.2509,-863.8103C983.6023,-849.5206 990.7613,-828.9369 990,-810"/>
+<path fill="none" stroke="#000000" d="M990,-810C989.135,-788.4849 947.5009,-784.3062 900,-756 779.2657,-684.0535 767.8321,-634.4127 640,-576 586.4305,-551.5215 519.9015,-536.7936 476.2629,-529.0412"/>
+<polygon fill="#000000" stroke="#000000" points="476.6768,-525.561 466.2273,-527.3097 475.4866,-532.459 476.6768,-525.561"/>
 </g>
 <!-- Software_Releases&#45;&gt;Dev_Quick_Start -->
 <g id="edge13" class="edge">
 <title>Software_Releases&#45;&gt;Dev_Quick_Start</title>
-<path fill="none" stroke="#000000" d="M1106.3454,-866.1102C1138.4463,-855.1041 1181.3164,-840.4058 1215.1265,-828.8138"/>
-<polygon fill="#000000" stroke="#000000" points="1216.5307,-832.0324 1224.855,-825.4783 1214.2604,-825.4108 1216.5307,-832.0324"/>
+<path fill="none" stroke="#000000" d="M1023.0217,-866.9941C1065.59,-855.3845 1124.5761,-839.2974 1169.0286,-827.174"/>
+<polygon fill="#000000" stroke="#000000" points="1170.125,-830.5029 1178.8517,-824.495 1168.2831,-823.7496 1170.125,-830.5029"/>
 </g>
 <!-- Software_Releases&#45;&gt;API_Docs -->
 <g id="edge6" class="edge">
 <title>Software_Releases&#45;&gt;API_Docs</title>
-<path fill="none" stroke="#000000" d="M969.7994,-874.8C787.2679,-860.2298 378.1462,-827.5726 221.0713,-815.0345"/>
-<polygon fill="#000000" stroke="#000000" points="220.8958,-811.5095 210.6489,-814.2026 220.3387,-818.4873 220.8958,-811.5095"/>
+<path fill="none" stroke="#000000" d="M993.1755,-864.5708C1007.2463,-854.8295 1024.9255,-842.59 1039.9733,-832.1723"/>
+<polygon fill="#000000" stroke="#000000" points="1042.2523,-834.8515 1048.482,-826.2817 1038.2678,-829.0962 1042.2523,-834.8515"/>
 </g>
 <!-- Software_Releases&#45;&gt;Guide_Book -->
 <g id="edge15" class="edge">
 <title>Software_Releases&#45;&gt;Guide_Book</title>
-<path fill="none" stroke="#000000" d="M1060,-863.8314C1060,-856.131 1060,-846.9743 1060,-838.4166"/>
-<polygon fill="#000000" stroke="#000000" points="1063.5001,-838.4132 1060,-828.4133 1056.5001,-838.4133 1063.5001,-838.4132"/>
+<path fill="none" stroke="#000000" d="M950.2022,-864.2022C941.3088,-855.3088 930.4042,-844.4042 920.7135,-834.7135"/>
+<polygon fill="#000000" stroke="#000000" points="923.139,-832.1892 913.593,-827.593 918.1892,-837.139 923.139,-832.1892"/>
 </g>
 <!-- Software_Releases&#45;&gt;Dev_Pulse -->
 <g id="edge14" class="edge">
 <title>Software_Releases&#45;&gt;Dev_Pulse</title>
-<path fill="none" stroke="#000000" d="M1050,-378C1045.8833,-346.2659 1061.3207,-335.9306 1050,-306"/>
+<path fill="none" stroke="#000000" d="M1041,-234C997.8327,-189.7728 989.188,-173.7174 935,-144 898.9694,-124.2403 854.7158,-110.6688 819.7253,-102.0735"/>
+<polygon fill="#000000" stroke="#000000" points="820.1899,-98.5862 809.6509,-99.6724 818.567,-105.3955 820.1899,-98.5862"/>
 </g>
 <!-- Software_Releases&#45;&gt;News -->
 <g id="edge7" class="edge">
 <title>Software_Releases&#45;&gt;News</title>
-<path fill="none" stroke="#000000" d="M1050,-666C1009.9265,-616.099 1065.3877,-584.1226 1050,-522"/>
-<path fill="none" stroke="#000000" d="M1050,-522C1041.0138,-476.3471 1000.0669,-488.5416 974,-450"/>
-<path fill="none" stroke="#000000" d="M974,-450C951.1348,-416.1923 945.1794,-407.5245 917,-378"/>
+<path fill="none" stroke="#000000" d="M990,-810C998.0915,-714.3416 1002.35,-689.2023 990,-594"/>
+<path fill="none" stroke="#000000" d="M990,-594C965.2792,-456.1636 806.2044,-360.1343 733.7984,-323.0265"/>
+<polygon fill="#000000" stroke="#000000" points="735.0952,-319.7608 724.5899,-318.3862 731.9451,-326.012 735.0952,-319.7608"/>
 </g>
 <!-- Libraries -->
 <g id="node15" class="node">
 <title>Libraries</title>
-<ellipse fill="none" stroke="#000000" cx="445" cy="-162" rx="52.7911" ry="18"/>
-<text text-anchor="middle" x="445" y="-158.3" font-family="Times,serif" font-size="14.00" fill="#000000">Libraries</text>
+<ellipse fill="none" stroke="#000000" cx="855" cy="-162" rx="52.7911" ry="18"/>
+<text text-anchor="middle" x="855" y="-158.3" font-family="Times,serif" font-size="14.00" fill="#000000">Libraries</text>
 </g>
 <!-- Software_Releases&#45;&gt;Libraries -->
 <g id="edge8" class="edge">
 <title>Software_Releases&#45;&gt;Libraries</title>
-<path fill="none" stroke="#000000" d="M1050,-522C1037.6396,-459.2049 1058.2334,-441.4682 1050,-378"/>
-<path fill="none" stroke="#000000" d="M1050,-378C1033.9876,-247.4669 715.2362,-238.1935 507,-180 502.9925,-178.8801 498.8433,-177.7064 494.678,-176.5181"/>
-<polygon fill="#000000" stroke="#000000" points="495.566,-173.1317 484.9885,-173.7375 493.635,-179.8602 495.566,-173.1317"/>
+<path fill="none" stroke="#000000" d="M990,-810C997.7154,-728.7376 1104,-747.6279 1104,-666 1104,-666 1104,-666 1104,-378 1104,-308.143 1091.8564,-281.8919 1041,-234"/>
+<path fill="none" stroke="#000000" d="M1041,-234C1006.9259,-199.0893 954.0236,-180.7973 913.3362,-171.4056"/>
+<polygon fill="#000000" stroke="#000000" points="914.0556,-167.9803 903.5384,-169.2597 912.558,-174.8182 914.0556,-167.9803"/>
 </g>
 <!-- dApps -->
 <g id="node16" class="node">
 <title>dApps</title>
-<ellipse fill="none" stroke="#000000" cx="506" cy="-450" rx="39.7935" ry="18"/>
-<text text-anchor="middle" x="506" y="-446.3" font-family="Times,serif" font-size="14.00" fill="#000000">dApps</text>
+<ellipse fill="none" stroke="#000000" cx="415" cy="-450" rx="39.7935" ry="18"/>
+<text text-anchor="middle" x="415" y="-446.3" font-family="Times,serif" font-size="14.00" fill="#000000">dApps</text>
 </g>
 <!-- Software_Releases&#45;&gt;dApps -->
 <g id="edge9" class="edge">
 <title>Software_Releases&#45;&gt;dApps</title>
-<path fill="none" stroke="#000000" d="M1154,-810C1177.3933,-734.5994 1102.3778,-725.0683 1050,-666"/>
-<path fill="none" stroke="#000000" d="M1050,-666C923.4524,-507.5412 663.6227,-464.8729 555.2096,-453.7611"/>
-<polygon fill="#000000" stroke="#000000" points="555.4936,-450.2723 545.2002,-452.7814 554.8117,-457.239 555.4936,-450.2723"/>
+<path fill="none" stroke="#000000" d="M990,-810C992.0261,-683.6069 586.3756,-516.0631 455.3031,-465.245"/>
+<polygon fill="#000000" stroke="#000000" points="456.2197,-461.8472 445.6301,-461.5137 453.7004,-468.3782 456.2197,-461.8472"/>
 </g>
 <!-- Software_Releases&#45;&gt;Press_Releases -->
 <g id="edge11" class="edge">
 <title>Software_Releases&#45;&gt;Press_Releases</title>
-<path fill="none" stroke="#000000" d="M1021.499,-865.3008C997.3796,-854.8393 966.1422,-841.2906 940.6237,-830.2223"/>
-<polygon fill="#000000" stroke="#000000" points="941.7172,-826.8816 931.1503,-826.1134 938.9318,-833.3036 941.7172,-826.8816"/>
+<path fill="none" stroke="#000000" d="M916.943,-866.5542C879.1684,-855.1266 827.6574,-839.5434 788.2714,-827.6283"/>
+<polygon fill="#000000" stroke="#000000" points="789.1201,-824.2285 778.535,-824.6829 787.0931,-830.9286 789.1201,-824.2285"/>
 </g>
 <!-- Software_Releases&#45;&gt;Programmers -->
 <g id="edge16" class="edge">
 <title>Software_Releases&#45;&gt;Programmers</title>
-<path fill="none" stroke="#000000" d="M974,-450C956.0726,-423.4932 985.186,-407.9812 974,-378"/>
+<path fill="none" stroke="#000000" d="M990,-594C985.4987,-562.3182 991.8405,-553.947 990,-522"/>
 </g>
 <!-- Hosts&#45;&gt;dApps -->
-<g id="edge90" class="edge">
+<g id="edge96" class="edge">
 <title>Hosts&#45;&gt;dApps</title>
-<path fill="none" stroke="#000000" d="M549.9233,-497.9163C543.1268,-490.502 535.6335,-482.3275 528.79,-474.8619"/>
-<polygon fill="#000000" stroke="#000000" points="547.3551,-500.2943 556.6924,-505.3008 552.5152,-495.5642 547.3551,-500.2943"/>
-<polygon fill="#000000" stroke="#000000" points="531.0202,-472.1152 521.6829,-467.1086 525.8601,-476.8453 531.0202,-472.1152"/>
+<path fill="none" stroke="#000000" d="M424.1364,-493.8545C423.0794,-488.781 421.9768,-483.4887 420.9183,-478.4078"/>
+<polygon fill="#000000" stroke="#000000" points="420.7488,-494.7554 426.2149,-503.8314 427.6017,-493.3277 420.7488,-494.7554"/>
+<polygon fill="#000000" stroke="#000000" points="424.3021,-477.4892 418.8361,-468.4133 417.4493,-478.9169 424.3021,-477.4892"/>
 </g>
 <!-- Business_Owners -->
 <g id="node19" class="node">
 <title>Business_Owners</title>
-<ellipse fill="none" stroke="#000000" cx="626" cy="-594" rx="92.0841" ry="18"/>
-<text text-anchor="middle" x="626" y="-590.3" font-family="Times,serif" font-size="14.00" fill="#000000">Business_Owners</text>
+<ellipse fill="none" stroke="#000000" cx="539" cy="-594" rx="92.0841" ry="18"/>
+<text text-anchor="middle" x="539" y="-590.3" font-family="Times,serif" font-size="14.00" fill="#000000">Business_Owners</text>
 </g>
 <!-- End_Users -->
 <g id="node20" class="node">
 <title>End_Users</title>
-<ellipse fill="none" stroke="#000000" cx="587" cy="-378" rx="61.1893" ry="18"/>
-<text text-anchor="middle" x="587" y="-374.3" font-family="Times,serif" font-size="14.00" fill="#000000">End_Users</text>
+<ellipse fill="none" stroke="#000000" cx="483" cy="-378" rx="61.1893" ry="18"/>
+<text text-anchor="middle" x="483" y="-374.3" font-family="Times,serif" font-size="14.00" fill="#000000">End_Users</text>
 </g>
 <!-- Hosts&#45;&gt;End_Users -->
-<g id="edge94" class="edge">
+<g id="edge100" class="edge">
 <title>Hosts&#45;&gt;End_Users</title>
-<path fill="none" stroke="#000000" d="M574.9717,-493.4713C577.6108,-468.1367 581.4454,-431.3246 584.0713,-406.1157"/>
-<polygon fill="#000000" stroke="#000000" points="571.4547,-493.4535 573.8998,-503.7623 578.4171,-494.1788 571.4547,-493.4535"/>
-<polygon fill="#000000" stroke="#000000" points="587.5607,-406.3985 585.1157,-396.0896 580.5984,-405.6731 587.5607,-406.3985"/>
+<path fill="none" stroke="#000000" d="M448.7387,-496.364C454.3463,-487.7053 460.0475,-477.7542 464,-468 472.0715,-448.0806 476.9076,-424.2306 479.6793,-406.0883"/>
+<polygon fill="#000000" stroke="#000000" points="445.6997,-494.6102 443.0059,-504.8569 451.5017,-498.5266 445.6997,-494.6102"/>
+<polygon fill="#000000" stroke="#000000" points="483.1516,-406.5294 481.0815,-396.1388 476.2201,-405.5525 483.1516,-406.5294"/>
 </g>
 <!-- Documentation -->
 <g id="node7" class="node">
 <title>Documentation</title>
 <g id="a_node7"><a xlink:href="https://developer.holochain.org/" xlink:title="Documentation">
-<ellipse fill="none" stroke="#000000" cx="688" cy="-1170" rx="81.4863" ry="18"/>
-<text text-anchor="middle" x="688" y="-1166.3" font-family="Times,serif" font-size="14.00" fill="#000000">Documentation</text>
+<ellipse fill="none" stroke="#000000" cx="1263" cy="-1170" rx="81.4863" ry="18"/>
+<text text-anchor="middle" x="1263" y="-1166.3" font-family="Times,serif" font-size="14.00" fill="#000000">Documentation</text>
 </a>
 </g>
 </g>
 <!-- API_Docs&#45;&gt;Dev_Pulse -->
 <g id="edge21" class="edge">
 <title>API_Docs&#45;&gt;Dev_Pulse</title>
-<path fill="none" stroke="#000000" d="M151.3696,-792.0988C141.9966,-765.1451 126,-712.3538 126,-666 126,-666 126,-666 126,-378 126,-336.6022 123.2329,-319.58 150,-288 257.183,-161.5448 345.2691,-216.3626 507,-180 511.4158,-179.0072 515.9789,-177.918 520.5509,-176.7821"/>
-<polygon fill="#000000" stroke="#000000" points="521.695,-180.1024 530.5202,-174.2401 519.9655,-173.3194 521.695,-180.1024"/>
+<path fill="none" stroke="#000000" d="M1086.8452,-792.6908C1107.3931,-766.8998 1142,-716.0351 1142,-666 1142,-666 1142,-666 1142,-234 1142,-178.3663 1104.043,-170.2659 1055,-144 1016.2049,-123.2225 900.0091,-106.3386 825.5521,-97.2662"/>
+<polygon fill="#000000" stroke="#000000" points="825.6816,-93.7567 815.3354,-96.0383 824.8462,-100.7067 825.6816,-93.7567"/>
 </g>
 <!-- API_Docs&#45;&gt;Programmers -->
 <g id="edge22" class="edge">
 <title>API_Docs&#45;&gt;Programmers</title>
-<path fill="none" stroke="#000000" d="M175.7928,-792.7308C199.9096,-767.3812 240,-717.4969 240,-666 240,-666 240,-666 240,-594 240,-459.3206 331.8209,-317.2602 373.1982,-260.0807"/>
-<polygon fill="#000000" stroke="#000000" points="376.0629,-262.0928 379.1524,-251.9584 370.4174,-257.9542 376.0629,-262.0928"/>
+<path fill="none" stroke="#000000" d="M1064.899,-792.1491C1060.8654,-781.6989 1055.8654,-768.1989 1052,-756 1050.9844,-752.7949 990.3405,-525.3449 990,-522"/>
 </g>
 <!-- Guide_Book&#45;&gt;Dev_Pulse -->
 <g id="edge25" class="edge">
 <title>Guide_Book&#45;&gt;Dev_Pulse</title>
-<path fill="none" stroke="#000000" d="M1049.8204,-792.0031C1035.7305,-765.3554 1012,-713.4342 1012,-666 1012,-666 1012,-666 1012,-450 1012,-383.8091 1041.4848,-371.6409 1050,-306"/>
-<path fill="none" stroke="#000000" d="M1050,-306C1056.133,-221.4456 772.7402,-181.8776 640.417,-168.0342"/>
-<polygon fill="#000000" stroke="#000000" points="640.6958,-164.5445 630.3904,-167.0043 639.9804,-171.5079 640.6958,-164.5445"/>
+<path fill="none" stroke="#000000" d="M891.856,-791.9265C885.9979,-764.7528 876,-711.6844 876,-666 876,-666 876,-666 876,-450 876,-432.6829 797.2145,-199.402 769.502,-117.8821"/>
+<polygon fill="#000000" stroke="#000000" points="772.771,-116.6237 766.2367,-108.2839 766.144,-118.8783 772.771,-116.6237"/>
 </g>
 <!-- Guide_Book&#45;&gt;Programmers -->
 <g id="edge23" class="edge">
 <title>Guide_Book&#45;&gt;Programmers</title>
-<path fill="none" stroke="#000000" d="M936,-738C881.3806,-697.1445 948.7311,-499.2715 960,-432 964.0962,-407.5472 970.8104,-402.5874 974,-378"/>
-<path fill="none" stroke="#000000" d="M974,-378C979.9489,-276.8688 639.8376,-246.2557 477.3335,-237.4071"/>
-<polygon fill="#000000" stroke="#000000" points="477.0629,-233.888 466.892,-236.8552 476.6933,-240.8782 477.0629,-233.888"/>
+<path fill="none" stroke="#000000" d="M902.3136,-791.7201C923.3895,-730.566 990,-536.168 990,-522"/>
+<path fill="none" stroke="#000000" d="M990,-522C986.0801,-422.2354 938.5738,-311.2179 914.6227,-261.1271"/>
+<polygon fill="#000000" stroke="#000000" points="917.6807,-259.4118 910.1664,-251.9427 911.3829,-262.4675 917.6807,-259.4118"/>
 </g>
 <!-- Guide_Book&#45;&gt;Business_Owners -->
 <g id="edge24" class="edge">
 <title>Guide_Book&#45;&gt;Business_Owners</title>
-<path fill="none" stroke="#000000" d="M1027.7831,-794.147C1007.8379,-783.9577 981.9365,-770.0395 960,-756 948.7697,-748.8126 946.6769,-745.9864 936,-738"/>
-<path fill="none" stroke="#000000" d="M936,-738C886.5573,-701.0167 861.541,-714.7524 808,-684 796.4381,-677.3592 795.6849,-672.422 784,-666"/>
+<path fill="none" stroke="#000000" d="M845.7909,-798.2388C808.7588,-787.523 758.9459,-768.6059 724,-738"/>
 </g>
 <!-- Community_Matters -->
 <g id="node12" class="node">
 <title>Community_Matters</title>
 <g id="a_node12"><a xlink:href="https://medium.com/holochain/tagged/community-matters" xlink:title="Community_Matters">
-<ellipse fill="none" stroke="#000000" cx="202" cy="-18" rx="105.8812" ry="18"/>
-<text text-anchor="middle" x="202" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Community_Matters</text>
+<ellipse fill="none" stroke="#000000" cx="730" cy="-18" rx="105.8812" ry="18"/>
+<text text-anchor="middle" x="730" y="-14.3" font-family="Times,serif" font-size="14.00" fill="#000000">Community_Matters</text>
 </a>
 </g>
 </g>
 <!-- Dev_Pulse&#45;&gt;Community_Matters -->
 <g id="edge46" class="edge">
 <title>Dev_Pulse&#45;&gt;Community_Matters</title>
-<path fill="none" stroke="#000000" d="M527.9483,-144.1735C458.419,-117.259 327.038,-66.4018 254.1029,-38.1689"/>
-<polygon fill="#000000" stroke="#000000" points="526.7239,-147.4526 537.3131,-147.7986 529.2509,-140.9246 526.7239,-147.4526"/>
-<polygon fill="#000000" stroke="#000000" points="255.2326,-34.8531 244.6434,-34.5071 252.7056,-41.3811 255.2326,-34.8531"/>
+<path fill="none" stroke="#000000" d="M748.5071,-62.417C746.2405,-56.9771 743.8607,-51.2657 741.5909,-45.8181"/>
+<polygon fill="#000000" stroke="#000000" points="745.3527,-63.9468 752.4297,-71.8314 751.8143,-61.2544 745.3527,-63.9468"/>
+<polygon fill="#000000" stroke="#000000" points="744.7492,-44.2979 737.6722,-36.4133 738.2876,-46.9902 744.7492,-44.2979"/>
 </g>
 <!-- Now_Building -->
 <g id="node13" class="node">
 <title>Now_Building</title>
 <g id="a_node13"><a xlink:href="https://medium.com/holochain/tagged/now-building" xlink:title="Now_Building">
-<ellipse fill="none" stroke="#000000" cx="99" cy="-90" rx="75.2868" ry="18"/>
-<text text-anchor="middle" x="99" y="-86.3" font-family="Times,serif" font-size="14.00" fill="#000000">Now_Building</text>
+<ellipse fill="none" stroke="#000000" cx="633" cy="-162" rx="75.2868" ry="18"/>
+<text text-anchor="middle" x="633" y="-158.3" font-family="Times,serif" font-size="14.00" fill="#000000">Now_Building</text>
 </a>
 </g>
 </g>
-<!-- Dev_Pulse&#45;&gt;Now_Building -->
-<g id="edge48" class="edge">
-<title>Dev_Pulse&#45;&gt;Now_Building</title>
-<path fill="none" stroke="#000000" d="M521.4065,-147.1761C516.555,-146.019 511.6987,-144.9379 507,-144 394.3341,-121.5104 262.2393,-105.9687 179.5699,-97.5193"/>
-<polygon fill="#000000" stroke="#000000" points="520.7568,-150.6211 531.3058,-149.6365 522.4453,-143.8278 520.7568,-150.6211"/>
-<polygon fill="#000000" stroke="#000000" points="179.7903,-94.0239 169.4887,-96.4991 179.0854,-100.9883 179.7903,-94.0239"/>
+<!-- Now_Building&#45;&gt;Dev_Pulse -->
+<g id="edge49" class="edge">
+<title>Now_Building&#45;&gt;Dev_Pulse</title>
+<path fill="none" stroke="#000000" d="M671.4082,-140.2253C687.8761,-130.8891 707.027,-120.0319 723.3014,-110.8055"/>
+<polygon fill="#000000" stroke="#000000" points="669.4287,-137.3241 662.4556,-145.3008 672.881,-143.4136 669.4287,-137.3241"/>
+<polygon fill="#000000" stroke="#000000" points="725.0383,-113.8442 732.0114,-105.8675 721.586,-107.7547 725.0383,-113.8442"/>
 </g>
 <!-- Now_Building&#45;&gt;Community_Matters -->
 <g id="edge52" class="edge">
 <title>Now_Building&#45;&gt;Community_Matters</title>
-<path fill="none" stroke="#000000" d="M131.6694,-67.1632C143.3839,-58.9743 156.6059,-49.7318 168.3981,-41.4887"/>
-<polygon fill="#000000" stroke="#000000" points="129.6004,-64.3391 123.4096,-72.937 133.6109,-70.0763 129.6004,-64.3391"/>
-<polygon fill="#000000" stroke="#000000" points="170.4992,-44.2904 176.69,-35.6924 166.4887,-38.5531 170.4992,-44.2904"/>
+<path fill="none" stroke="#000000" d="M650.6984,-135.26C662.5998,-117.326 678.6723,-93.1984 693,-72 699.1093,-62.961 705.8398,-53.1075 711.8664,-44.3215"/>
+<polygon fill="#000000" stroke="#000000" points="647.4955,-133.7569 644.8862,-144.0254 653.3296,-137.6253 647.4955,-133.7569"/>
+<polygon fill="#000000" stroke="#000000" points="714.8322,-46.1854 717.6093,-35.961 709.0624,-42.222 714.8322,-46.1854"/>
 </g>
 <!-- News&#45;&gt;Dev_Pulse -->
 <g id="edge31" class="edge">
 <title>News&#45;&gt;Dev_Pulse</title>
-<path fill="none" stroke="#000000" d="M724.8965,-284.0735C691.9648,-257.4322 636.6361,-212.6719 602.9096,-185.3876"/>
-<polygon fill="#000000" stroke="#000000" points="722.9751,-287.021 732.9509,-290.5895 727.3777,-281.5789 722.9751,-287.021"/>
-<polygon fill="#000000" stroke="#000000" points="604.8032,-182.4175 594.8273,-178.8491 600.4005,-187.8597 604.8032,-182.4175"/>
+<path fill="none" stroke="#000000" d="M705.9567,-278.2797C717.8388,-236.8843 740.0928,-159.354 752,-117.871"/>
+<polygon fill="#000000" stroke="#000000" points="702.5743,-277.3779 703.1794,-287.9555 709.3026,-279.3093 702.5743,-277.3779"/>
+<polygon fill="#000000" stroke="#000000" points="755.3968,-118.7226 754.7917,-108.1451 748.6685,-116.7913 755.3968,-118.7226"/>
 </g>
 <!-- News&#45;&gt;Programmers -->
 <g id="edge33" class="edge">
 <title>News&#45;&gt;Programmers</title>
-<path fill="none" stroke="#000000" d="M720.9424,-296.3057C711.1031,-293.4173 700.1464,-290.3886 690,-288 614.5302,-270.2333 527.1005,-254.9672 466.7383,-245.2449"/>
-<polygon fill="#000000" stroke="#000000" points="466.9688,-241.7374 456.5415,-243.6138 465.8631,-248.6495 466.9688,-241.7374"/>
+<path fill="none" stroke="#000000" d="M727.9533,-295.3762C759.8785,-284.0529 811.0176,-265.9149 849.4401,-252.2872"/>
+<polygon fill="#000000" stroke="#000000" points="850.6604,-255.5681 858.9152,-248.9266 848.3204,-248.9708 850.6604,-255.5681"/>
 </g>
 <!-- Libraries&#45;&gt;dApps -->
 <g id="edge17" class="edge">
 <title>Libraries&#45;&gt;dApps</title>
-<path fill="none" stroke="#000000" d="M457.9416,-179.5805C464.7406,-189.7218 472.5619,-203.0062 477,-216 501.3245,-287.2176 505.6683,-376.8249 506.1845,-421.6816"/>
-<polygon fill="#000000" stroke="#000000" points="502.6853,-421.8495 506.2431,-431.8291 509.6852,-421.809 502.6853,-421.8495"/>
+<path fill="none" stroke="#000000" d="M806.7073,-169.2188C729.2274,-182.5448 574.6391,-216.4428 464,-288 427.8003,-311.4126 414.476,-319.7624 399,-360 391.2129,-380.2464 396.3028,-404.5301 402.7388,-422.7678"/>
+<polygon fill="#000000" stroke="#000000" points="399.5172,-424.1417 406.3795,-432.2138 406.0489,-421.6241 399.5172,-424.1417"/>
 </g>
 <!-- dApps&#45;&gt;Programmers -->
-<g id="edge119" class="edge">
+<g id="edge125" class="edge">
 <title>dApps&#45;&gt;Programmers</title>
-<path fill="none" stroke="#000000" d="M491.9966,-423.2324C470.3034,-381.7658 428.8142,-302.4589 407.0765,-260.9074"/>
-<polygon fill="#000000" stroke="#000000" points="489.016,-425.0855 496.7527,-432.3238 495.2185,-421.8406 489.016,-425.0855"/>
-<polygon fill="#000000" stroke="#000000" points="410.1118,-259.1587 402.375,-251.9204 403.9093,-262.4036 410.1118,-259.1587"/>
+<path fill="none" stroke="#000000" d="M406.1612,-422.4161C401.7804,-403.0821 399.8726,-377.6436 413,-360 461.5175,-294.7911 696.6128,-257.8701 821.9389,-242.5213"/>
+<polygon fill="#000000" stroke="#000000" points="402.7919,-423.3668 408.6899,-432.1682 409.5678,-421.6098 402.7919,-423.3668"/>
+<polygon fill="#000000" stroke="#000000" points="822.7331,-245.9509 832.2417,-241.2778 821.8943,-239.0013 822.7331,-245.9509"/>
 </g>
 <!-- dApps&#45;&gt;Business_Owners -->
 <g id="edge18" class="edge">
 <title>dApps&#45;&gt;Business_Owners</title>
-<path fill="none" stroke="#000000" d="M505.4991,-468.0436C505.8608,-487.6307 509.1812,-518.9272 525,-540 536.1294,-554.8259 552.5488,-566.0152 568.9288,-574.2503"/>
-<polygon fill="#000000" stroke="#000000" points="567.4535,-577.4242 577.9909,-578.5258 570.4404,-571.0934 567.4535,-577.4242"/>
+<path fill="none" stroke="#000000" d="M435.429,-465.6103C448.1168,-475.8152 464.3575,-489.8372 477,-504 494.5906,-523.7059 511.3849,-548.5957 523.0468,-567.2032"/>
+<polygon fill="#000000" stroke="#000000" points="520.1108,-569.1103 528.3404,-575.7829 526.0681,-565.4346 520.1108,-569.1103"/>
 </g>
 <!-- dApps&#45;&gt;End_Users -->
 <g id="edge19" class="edge">
 <title>dApps&#45;&gt;End_Users</title>
-<path fill="none" stroke="#000000" d="M532.0257,-426.866C540.9512,-418.9323 550.9567,-410.0385 559.9606,-402.035"/>
-<polygon fill="#000000" stroke="#000000" points="529.529,-424.4025 524.3802,-433.6621 534.1796,-429.6344 529.529,-424.4025"/>
-<polygon fill="#000000" stroke="#000000" points="562.4142,-404.5369 567.5631,-395.2773 557.7637,-399.305 562.4142,-404.5369"/>
+<path fill="none" stroke="#000000" d="M437.6401,-426.0282C444.5339,-418.7288 452.1317,-410.684 459.1056,-403.2999"/>
+<polygon fill="#000000" stroke="#000000" points="435.0932,-423.6274 430.7715,-433.3008 440.1823,-428.4338 435.0932,-423.6274"/>
+<polygon fill="#000000" stroke="#000000" points="462.0436,-405.2865 466.3653,-395.6132 456.9545,-400.4801 462.0436,-405.2865"/>
 </g>
 <!-- Press_Releases&#45;&gt;News -->
 <g id="edge28" class="edge">
 <title>Press_Releases&#45;&gt;News</title>
-<path fill="none" stroke="#000000" d="M894.8288,-791.8191C896.0004,-764.5085 898,-711.2675 898,-666 898,-666 898,-666 898,-522 898,-489.7227 938.007,-402.5058 917,-378"/>
-<path fill="none" stroke="#000000" d="M917,-378C884.3556,-343.7975 832.675,-324.8753 795.8554,-315.1177"/>
-<polygon fill="#000000" stroke="#000000" points="796.4451,-311.6569 785.8927,-312.6035 794.7323,-318.4441 796.4451,-311.6569"/>
+<path fill="none" stroke="#000000" d="M750.8302,-792.2141C760.4673,-782.6003 770.8939,-769.8683 776,-756 803.6409,-680.9268 782.957,-655.6969 776,-576 767.5234,-478.895 776.4825,-449.5563 738,-360 733.5321,-349.6024 726.7073,-339.3315 719.953,-330.584"/>
+<polygon fill="#000000" stroke="#000000" points="722.5907,-328.2796 713.5782,-322.7096 717.1501,-332.6842 722.5907,-328.2796"/>
 </g>
 <!-- Press_Releases&#45;&gt;Business_Owners -->
 <g id="edge29" class="edge">
 <title>Press_Releases&#45;&gt;Business_Owners</title>
-<path fill="none" stroke="#000000" d="M885.2212,-791.9132C869.3799,-761.2189 833.0469,-699.0517 784,-666"/>
-<path fill="none" stroke="#000000" d="M784,-666C748.6872,-646.5922 707.1738,-627.8216 675.5631,-614.3143"/>
-<polygon fill="#000000" stroke="#000000" points="676.6615,-610.9784 666.0886,-610.2965 673.9285,-617.4229 676.6615,-610.9784"/>
+<path fill="none" stroke="#000000" d="M733.744,-791.9242C735.947,-775.9455 736.2676,-752.9212 724,-738"/>
+<path fill="none" stroke="#000000" d="M724,-738C681.6168,-686.4493 617.6316,-641.8602 577.1041,-616.4632"/>
+<polygon fill="#000000" stroke="#000000" points="578.9249,-613.474 568.5797,-611.1875 575.241,-619.4263 578.9249,-613.474"/>
 </g>
 <!-- Press_Releases&#45;&gt;Markets -->
 <g id="edge30" class="edge">
 <title>Press_Releases&#45;&gt;Markets</title>
-<path fill="none" stroke="#000000" d="M846.161,-795.3429C805.4962,-782.8839 747.4096,-765.0872 706.7657,-752.6346"/>
-<polygon fill="#000000" stroke="#000000" points="707.6741,-749.2524 697.0875,-749.6694 705.6235,-755.9453 707.6741,-749.2524"/>
+<path fill="none" stroke="#000000" d="M669.1005,-797.7862C600.4557,-784.019 489.9251,-761.8513 424.4855,-748.7269"/>
+<polygon fill="#000000" stroke="#000000" points="424.8764,-745.2357 414.3833,-746.7008 423.4998,-752.099 424.8764,-745.2357"/>
 </g>
 <!-- Programmers&#45;&gt;Dev_Pulse -->
 <g id="edge43" class="edge">
 <title>Programmers&#45;&gt;Dev_Pulse</title>
-<path fill="none" stroke="#000000" d="M441.3846,-214.7531C468.4486,-203.9873 501.9798,-190.6489 528.5536,-180.0781"/>
-<polygon fill="#000000" stroke="#000000" points="439.8272,-211.6058 431.829,-218.5542 442.4146,-218.1101 439.8272,-211.6058"/>
-<polygon fill="#000000" stroke="#000000" points="530.0062,-183.2671 538.0044,-176.3187 527.4188,-176.7628 530.0062,-183.2671"/>
+<path fill="none" stroke="#000000" d="M915.6274,-206.9213C923.8101,-187.7225 930.0113,-162.2347 917,-144 905.077,-127.2906 857.8229,-112.459 818.2423,-102.5879"/>
+<polygon fill="#000000" stroke="#000000" points="912.4267,-205.5041 911.3934,-216.0484 918.7767,-208.4498 912.4267,-205.5041"/>
+<polygon fill="#000000" stroke="#000000" points="818.9149,-99.1495 808.371,-100.1871 817.2606,-105.9512 818.9149,-99.1495"/>
+</g>
+<!-- Programmers&#45;&gt;Community_Matters -->
+<g id="edge59" class="edge">
+<title>Programmers&#45;&gt;Community_Matters</title>
+<path fill="none" stroke="#000000" d="M922.6207,-207.7002C934.9553,-189.322 945.9723,-164.502 935,-144 905.8015,-89.4422 841.7597,-55.8361 792.9716,-37.2015"/>
+<polygon fill="#000000" stroke="#000000" points="919.5379,-205.9928 916.5502,-216.1576 925.2247,-210.0746 919.5379,-205.9928"/>
+<polygon fill="#000000" stroke="#000000" points="794.0254,-33.8596 783.4322,-33.6725 791.5966,-40.4248 794.0254,-33.8596"/>
+</g>
+<!-- Programmers&#45;&gt;Now_Building -->
+<g id="edge57" class="edge">
+<title>Programmers&#45;&gt;Now_Building</title>
+<path fill="none" stroke="#000000" d="M841.0658,-217.8983C796.9396,-206.0435 737.1903,-189.9914 693.0393,-178.13"/>
+<polygon fill="#000000" stroke="#000000" points="840.34,-221.3273 850.9056,-220.5418 842.1562,-214.567 840.34,-221.3273"/>
+<polygon fill="#000000" stroke="#000000" points="693.8687,-174.7288 683.3031,-175.5143 692.0525,-181.489 693.8687,-174.7288"/>
 </g>
 <!-- Programmers&#45;&gt;Libraries -->
-<g id="edge120" class="edge">
+<g id="edge126" class="edge">
 <title>Programmers&#45;&gt;Libraries</title>
-<path fill="none" stroke="#000000" d="M411.839,-207.9152C416.5129,-201.4436 421.5217,-194.5084 426.1941,-188.0389"/>
-<polygon fill="#000000" stroke="#000000" points="408.8715,-206.0462 405.8539,-216.2022 414.5463,-210.1447 408.8715,-206.0462"/>
-<polygon fill="#000000" stroke="#000000" points="429.2764,-189.7491 432.2939,-179.593 423.6016,-185.6506 429.2764,-189.7491"/>
+<path fill="none" stroke="#000000" d="M884.1504,-207.6268C880.1426,-201.3537 875.8659,-194.6596 871.8577,-188.386"/>
+<polygon fill="#000000" stroke="#000000" points="881.2958,-209.6596 889.6292,-216.2022 887.1947,-205.8909 881.2958,-209.6596"/>
+<polygon fill="#000000" stroke="#000000" points="874.5734,-186.1356 866.24,-179.593 868.6745,-189.9044 874.5734,-186.1356"/>
 </g>
 <!-- Business_Owners&#45;&gt;Hosts -->
-<g id="edge93" class="edge">
+<g id="edge99" class="edge">
 <title>Business_Owners&#45;&gt;Hosts</title>
-<path fill="none" stroke="#000000" d="M606.1681,-567.5574C601.3299,-561.1066 596.1607,-554.2143 591.3456,-547.7941"/>
-<polygon fill="#000000" stroke="#000000" points="603.5735,-569.9314 612.3735,-575.8314 609.1735,-565.7313 603.5735,-569.9314"/>
-<polygon fill="#000000" stroke="#000000" points="593.8633,-545.3177 585.0633,-539.4177 588.2633,-549.5177 593.8633,-545.3177"/>
+<path fill="none" stroke="#000000" d="M504.0133,-570.8895C490.0357,-561.6566 474.0852,-551.1205 460.5797,-542.1994"/>
+<polygon fill="#000000" stroke="#000000" points="502.3411,-573.9795 512.6141,-576.5708 506.1992,-568.1387 502.3411,-573.9795"/>
+<polygon fill="#000000" stroke="#000000" points="462.376,-539.1914 452.1029,-536.6001 458.5178,-545.0322 462.376,-539.1914"/>
+</g>
+<!-- Business_Owners&#45;&gt;Now_Building -->
+<g id="edge55" class="edge">
+<title>Business_Owners&#45;&gt;Now_Building</title>
+<path fill="none" stroke="#000000" d="M545.1067,-565.9351C562.1068,-487.807 609.8455,-268.4121 626.8716,-190.1643"/>
+<polygon fill="#000000" stroke="#000000" points="541.6257,-565.472 542.9194,-575.9875 548.4656,-566.9603 541.6257,-565.472"/>
+<polygon fill="#000000" stroke="#000000" points="630.3576,-190.6049 629.0639,-180.0894 623.5177,-189.1166 630.3576,-190.6049"/>
 </g>
 <!-- Business_Owners&#45;&gt;News -->
 <g id="edge37" class="edge">
 <title>Business_Owners&#45;&gt;News</title>
-<path fill="none" stroke="#000000" d="M661.3912,-570.589C671.932,-562.0753 682.6249,-551.6473 690,-540 731.733,-474.0919 745.5424,-380.7388 749.9811,-334.3901"/>
-<polygon fill="#000000" stroke="#000000" points="659.2153,-567.8471 653.4178,-576.715 663.48,-573.398 659.2153,-567.8471"/>
-<polygon fill="#000000" stroke="#000000" points="753.4888,-334.4556 750.8776,-324.1876 746.5156,-333.8429 753.4888,-334.4556"/>
+<path fill="none" stroke="#000000" d="M563.7126,-568.4844C571.3876,-559.838 579.5242,-549.8636 586,-540 634.6598,-465.8841 633.6574,-439.9424 672,-360 676.1848,-351.2749 680.7604,-341.7626 684.8905,-333.1865"/>
+<polygon fill="#000000" stroke="#000000" points="561.0031,-566.2614 556.8549,-576.0104 566.1773,-570.9762 561.0031,-566.2614"/>
+<polygon fill="#000000" stroke="#000000" points="688.1323,-334.5216 689.3198,-323.9935 681.8261,-331.4832 688.1323,-334.5216"/>
 </g>
 <!-- Business_Owners&#45;&gt;Programmers -->
-<g id="edge123" class="edge">
+<g id="edge129" class="edge">
 <title>Business_Owners&#45;&gt;Programmers</title>
-<path fill="none" stroke="#000000" d="M641.35,-567.2066C656.0469,-538.9885 676,-492.7975 676,-450 676,-450 676,-450 676,-378 676,-286.7535 557.6917,-253.3019 474.0639,-241.0542"/>
-<polygon fill="#000000" stroke="#000000" points="638.2457,-565.5895 636.6037,-576.0563 644.4145,-568.898 638.2457,-565.5895"/>
-<polygon fill="#000000" stroke="#000000" points="474.434,-237.5721 464.0476,-239.6632 473.4711,-244.5055 474.434,-237.5721"/>
+<path fill="none" stroke="#000000" d="M572.7639,-570.4974C585.1522,-561.4081 599.0574,-550.6419 611,-540 718.8516,-443.8948 832.7768,-314.0934 879.3042,-259.6777"/>
+<polygon fill="#000000" stroke="#000000" points="570.5203,-567.8007 564.4726,-576.4999 574.6252,-573.4708 570.5203,-567.8007"/>
+<polygon fill="#000000" stroke="#000000" points="882.1034,-261.7891 885.9269,-251.9081 876.7761,-257.2481 882.1034,-261.7891"/>
 </g>
 <!-- Business_Owners&#45;&gt;End_Users -->
-<g id="edge124" class="edge">
+<g id="edge130" class="edge">
 <title>Business_Owners&#45;&gt;End_Users</title>
-<path fill="none" stroke="#000000" d="M625.0525,-565.9294C624.1464,-548.1001 622.3891,-524.5865 619,-504 613.361,-469.7473 602.9467,-431.1704 595.5308,-405.8298"/>
-<polygon fill="#000000" stroke="#000000" points="621.5578,-566.129 625.5036,-575.9617 628.5508,-565.8145 621.5578,-566.129"/>
-<polygon fill="#000000" stroke="#000000" points="598.8596,-404.7446 592.6566,-396.1555 592.1495,-406.7382 598.8596,-404.7446"/>
+<path fill="none" stroke="#000000" d="M531.7396,-565.9956C520.9874,-524.523 500.9489,-447.2316 490.2201,-405.8488"/>
+<polygon fill="#000000" stroke="#000000" points="528.4241,-567.1539 534.3218,-575.9555 535.2001,-565.3971 528.4241,-567.1539"/>
+<polygon fill="#000000" stroke="#000000" points="493.602,-404.9466 487.7043,-396.1451 486.826,-406.7034 493.602,-404.9466"/>
 </g>
 <!-- End_Users&#45;&gt;News -->
 <g id="edge39" class="edge">
 <title>End_Users&#45;&gt;News</title>
-<path fill="none" stroke="#000000" d="M630.5417,-359C657.0108,-347.4499 690.4247,-332.8692 715.5027,-321.9261"/>
-<polygon fill="#000000" stroke="#000000" points="628.9537,-355.8742 621.1881,-363.0816 631.7533,-362.2899 628.9537,-355.8742"/>
-<polygon fill="#000000" stroke="#000000" points="716.9085,-325.1314 724.6741,-317.924 714.1088,-318.7157 716.9085,-325.1314"/>
+<path fill="none" stroke="#000000" d="M533.1387,-361.2093C571.2717,-348.4393 623.0226,-331.1087 658.3056,-319.293"/>
+<polygon fill="#000000" stroke="#000000" points="531.8108,-357.9629 523.4399,-364.4574 534.0337,-364.6006 531.8108,-357.9629"/>
+<polygon fill="#000000" stroke="#000000" points="659.4245,-322.6094 667.7955,-316.115 657.2016,-315.9717 659.4245,-322.6094"/>
 </g>
 <!-- Markets&#45;&gt;Hosts -->
-<g id="edge64" class="edge">
+<g id="edge70" class="edge">
 <title>Markets&#45;&gt;Hosts</title>
-<path fill="none" stroke="#000000" d="M623.7255,-716.9695C591.183,-695.3006 544.9815,-658.2162 525,-612 518.6505,-597.3138 519.3921,-590.985 525,-576 529.3126,-564.4762 537.3186,-553.7895 545.5164,-545.016"/>
-<polygon fill="#000000" stroke="#000000" points="622.2146,-720.1613 632.5088,-722.6673 626.0242,-714.2887 622.2146,-720.1613"/>
-<polygon fill="#000000" stroke="#000000" points="548.1024,-547.3794 552.682,-537.8254 543.144,-542.4383 548.1024,-547.3794"/>
+<path fill="none" stroke="#000000" d="M378.5717,-710.2797C389.8788,-668.8843 411.0561,-591.354 422.3871,-549.871"/>
+<polygon fill="#000000" stroke="#000000" points="375.1875,-709.3866 375.9288,-719.9555 381.9402,-711.2311 375.1875,-709.3866"/>
+<polygon fill="#000000" stroke="#000000" points="425.785,-550.7139 425.0437,-540.1451 419.0324,-548.8694 425.785,-550.7139"/>
 </g>
 <!-- Markets&#45;&gt;News -->
 <g id="edge41" class="edge">
 <title>Markets&#45;&gt;News</title>
-<path fill="none" stroke="#000000" d="M691.1944,-716.3043C738.6961,-681.4168 822,-607.9778 822,-522 822,-522 822,-522 822,-450 822,-404.6003 793.5082,-358.5176 772.8794,-331.1023"/>
-<polygon fill="#000000" stroke="#000000" points="689.1226,-713.4832 683.0512,-722.1658 693.212,-719.1644 689.1226,-713.4832"/>
-<polygon fill="#000000" stroke="#000000" points="775.3982,-328.6389 766.504,-322.8817 769.8666,-332.9287 775.3982,-328.6389"/>
+<path fill="none" stroke="#000000" d="M348.4699,-713.1135C341.8031,-704.463 335.1772,-694.3272 331,-684 289.0017,-580.1687 273.4211,-526.8427 333,-432 358.4453,-391.494 370.138,-381.2378 413,-360 454.4184,-339.4775 582.989,-320.62 652.4207,-311.5928"/>
+<polygon fill="#000000" stroke="#000000" points="345.777,-715.3497 354.7956,-720.9099 351.2129,-710.9392 345.777,-715.3497"/>
+<polygon fill="#000000" stroke="#000000" points="653.1538,-315.0274 662.6261,-310.2814 652.2615,-308.0845 653.1538,-315.0274"/>
 </g>
 <!-- Markets&#45;&gt;Business_Owners -->
-<g id="edge127" class="edge">
+<g id="edge133" class="edge">
 <title>Markets&#45;&gt;Business_Owners</title>
-<path fill="none" stroke="#000000" d="M652.6219,-710.1684C646.7992,-684.7602 638.236,-647.3933 632.4049,-621.9485"/>
-<polygon fill="#000000" stroke="#000000" points="649.2418,-711.088 654.8873,-720.0535 656.065,-709.5243 649.2418,-711.088"/>
-<polygon fill="#000000" stroke="#000000" points="635.81,-621.1382 630.1646,-612.1727 628.9869,-622.7019 635.81,-621.1382"/>
+<path fill="none" stroke="#000000" d="M398.2217,-714.6671C429.0862,-688.2118 479.1781,-645.2759 510.5443,-618.3906"/>
+<polygon fill="#000000" stroke="#000000" points="395.9153,-712.0342 390.6005,-721.1995 400.4709,-717.349 395.9153,-712.0342"/>
+<polygon fill="#000000" stroke="#000000" points="513.1626,-620.7562 518.4774,-611.5908 508.607,-615.4414 513.1626,-620.7562"/>
 </g>
 <!-- Markets&#45;&gt;End_Users -->
-<g id="edge68" class="edge">
+<g id="edge74" class="edge">
 <title>Markets&#45;&gt;End_Users</title>
-<path fill="none" stroke="#000000" d="M681.443,-713.0843C706.8749,-681.7204 742.8596,-625.9005 727,-576 704.4159,-504.9414 646.0742,-437.4368 612.2595,-402.5783"/>
-<polygon fill="#000000" stroke="#000000" points="678.6505,-710.9676 674.9224,-720.8849 684.0213,-715.4571 678.6505,-710.9676"/>
-<polygon fill="#000000" stroke="#000000" points="614.5449,-399.9108 605.0342,-395.242 609.5575,-404.8227 614.5449,-399.9108"/>
+<path fill="none" stroke="#000000" d="M357.0122,-710.6567C343.802,-682.262 326,-636.1737 326,-594 326,-594 326,-594 326,-522 326,-478.2273 335.2683,-463.1707 366,-432 383.1023,-414.6534 406.8229,-402.2938 428.4377,-393.8172"/>
+<polygon fill="#000000" stroke="#000000" points="353.9774,-712.4228 361.4567,-719.9269 360.2895,-709.3966 353.9774,-712.4228"/>
+<polygon fill="#000000" stroke="#000000" points="429.7172,-397.0756 437.8669,-390.3055 427.2742,-390.5157 429.7172,-397.0756"/>
 </g>
 <!-- Markets&#45;&gt;Blogs -->
-<g id="edge63" class="edge">
+<g id="edge69" class="edge">
 <title>Markets&#45;&gt;Blogs</title>
-<path fill="none" stroke="#000000" d="M617.7796,-720.0129C591.057,-708.3521 556.5503,-693.2947 530.7615,-682.0414"/>
-<polygon fill="#000000" stroke="#000000" points="616.6211,-723.3261 627.1863,-724.1177 619.4208,-716.9103 616.6211,-723.3261"/>
-<polygon fill="#000000" stroke="#000000" points="531.9042,-678.7213 521.3389,-677.9297 529.1045,-685.1371 531.9042,-678.7213"/>
+<path fill="none" stroke="#000000" d="M413.0662,-720.4927C441.6345,-708.603 479.0796,-693.0189 506.6049,-681.5633"/>
+<polygon fill="#000000" stroke="#000000" points="411.4275,-717.3836 403.54,-724.4574 414.1172,-723.8463 411.4275,-717.3836"/>
+<polygon fill="#000000" stroke="#000000" points="508.0089,-684.7701 515.8964,-677.6963 505.3192,-678.3074 508.0089,-684.7701"/>
 </g>
 <!-- Blogs&#45;&gt;News -->
 <g id="edge35" class="edge">
 <title>Blogs&#45;&gt;News</title>
-<path fill="none" stroke="#000000" d="M481.3528,-639.1707C462.2687,-594.8037 430.9658,-503.9078 457,-432 471.1803,-392.8333 481.5093,-381.8065 517,-360 548.3758,-340.7218 647.6196,-322.4365 706.6272,-312.8848"/>
-<polygon fill="#000000" stroke="#000000" points="478.1947,-640.6831 485.4431,-648.4104 484.5955,-637.8495 478.1947,-640.6831"/>
-<polygon fill="#000000" stroke="#000000" points="707.4746,-316.2939 716.7974,-311.2604 706.3705,-309.3815 707.4746,-316.2939"/>
+<path fill="none" stroke="#000000" d="M582.3335,-650.8133C601.469,-641.7626 623.9053,-628.7499 640,-612 671.1247,-579.6082 686,-566.9219 686,-522 686,-522 686,-522 686,-450 686,-409.7369 690.7166,-363.3594 694.2358,-334.3596"/>
+<polygon fill="#000000" stroke="#000000" points="580.6269,-647.744 572.9638,-655.0603 583.5168,-654.1196 580.6269,-647.744"/>
+<polygon fill="#000000" stroke="#000000" points="697.7452,-334.5021 695.5136,-324.145 690.7993,-333.6332 697.7452,-334.5021"/>
 </g>
 <!-- Blogs&#45;&gt;Programmers -->
-<g id="edge58" class="edge">
+<g id="edge64" class="edge">
 <title>Blogs&#45;&gt;Programmers</title>
-<path fill="none" stroke="#000000" d="M472.9167,-641.0181C466.5633,-632.3214 460.1756,-622.1821 456,-612 405.4106,-488.6396 395.4192,-326.7702 393.4654,-262.2838"/>
-<polygon fill="#000000" stroke="#000000" points="470.3137,-643.3754 479.1756,-649.1821 475.8691,-639.1164 470.3137,-643.3754"/>
-<polygon fill="#000000" stroke="#000000" points="396.9594,-262.0017 393.2007,-252.096 389.9617,-262.1835 396.9594,-262.0017"/>
+<path fill="none" stroke="#000000" d="M586.3284,-654.8497C612.573,-646.3468 645.7817,-632.5475 670,-612 789.652,-510.4837 865.3092,-330.6842 891.0975,-261.8619"/>
+<polygon fill="#000000" stroke="#000000" points="585.1591,-651.5478 576.6441,-657.8523 587.2321,-658.2338 585.1591,-651.5478"/>
+<polygon fill="#000000" stroke="#000000" points="894.4969,-262.7594 894.6739,-252.166 887.9295,-260.3368 894.4969,-262.7594"/>
 </g>
 <!-- Blogs&#45;&gt;Business_Owners -->
-<g id="edge60" class="edge">
+<g id="edge66" class="edge">
 <title>Blogs&#45;&gt;Business_Owners</title>
-<path fill="none" stroke="#000000" d="M527.5537,-647.698C545.271,-638.034 567.1407,-626.105 585.7641,-615.9469"/>
-<polygon fill="#000000" stroke="#000000" points="525.6218,-644.7649 518.5188,-652.6261 528.9738,-650.9102 525.6218,-644.7649"/>
-<polygon fill="#000000" stroke="#000000" points="587.5103,-618.9813 594.6132,-611.1201 584.1583,-612.836 587.5103,-618.9813"/>
+<path fill="none" stroke="#000000" d="M542.0455,-637.8545C541.6931,-632.781 541.3256,-627.4887 540.9728,-622.4078"/>
+<polygon fill="#000000" stroke="#000000" points="538.5538,-638.0979 542.7383,-647.8314 545.537,-637.6129 538.5538,-638.0979"/>
+<polygon fill="#000000" stroke="#000000" points="544.4632,-622.1467 540.2787,-612.4133 537.48,-622.6317 544.4632,-622.1467"/>
 </g>
 <!-- Community&#45;&gt;Team -->
-<g id="edge96" class="edge">
+<g id="edge102" class="edge">
 <title>Community&#45;&gt;Team</title>
-<path fill="none" stroke="#000000" d="M498.0846,-936.0605C531.8169,-923.7319 575.9844,-907.5895 607.2467,-896.1636"/>
-<polygon fill="#000000" stroke="#000000" points="496.5833,-932.8826 488.3924,-939.6028 498.9863,-939.4573 496.5833,-932.8826"/>
-<polygon fill="#000000" stroke="#000000" points="608.7229,-899.3506 616.9138,-892.6305 606.3199,-892.776 608.7229,-899.3506"/>
+<path fill="none" stroke="#000000" d="M300.0966,-937.5925C342.3936,-924.5221 400.7254,-906.4969 439.3615,-894.5578"/>
+<polygon fill="#000000" stroke="#000000" points="298.8003,-934.3297 290.2795,-940.6261 300.8671,-941.0176 298.8003,-934.3297"/>
+<polygon fill="#000000" stroke="#000000" points="440.701,-897.8073 449.2219,-891.5108 438.6343,-891.1193 440.701,-897.8073"/>
 </g>
 <!-- Community&#45;&gt;Hosts -->
-<g id="edge114" class="edge">
+<g id="edge120" class="edge">
 <title>Community&#45;&gt;Hosts</title>
-<path fill="none" stroke="#000000" d="M442.3845,-926.1009C430.6515,-870.7268 410.8319,-744.0013 449,-648 467.0916,-602.4954 510.7018,-564.6041 540.8113,-542.6151"/>
-<polygon fill="#000000" stroke="#000000" points="438.9709,-926.8745 444.5346,-935.8909 445.808,-925.3728 438.9709,-926.8745"/>
-<polygon fill="#000000" stroke="#000000" points="543.1782,-545.2265 549.2957,-536.5762 539.119,-539.5236 543.1782,-545.2265"/>
+<path fill="none" stroke="#000000" d="M241.04,-925.7275C235.468,-896.7963 228,-850.4718 228,-810 228,-810 228,-810 228,-738 228,-687.6988 346.3379,-587.8587 401.863,-543.7815"/>
+<polygon fill="#000000" stroke="#000000" points="237.6823,-926.7889 243.0632,-935.9156 244.5483,-925.4254 237.6823,-926.7889"/>
+<polygon fill="#000000" stroke="#000000" points="404.2084,-546.3893 409.893,-537.4486 399.8736,-540.8929 404.2084,-546.3893"/>
 </g>
 <!-- Community&#45;&gt;Guide_Book -->
-<g id="edge110" class="edge">
+<g id="edge116" class="edge">
 <title>Community&#45;&gt;Guide_Book</title>
-<path fill="none" stroke="#000000" d="M509.8615,-940.7669C558.8457,-930.0326 629.4282,-914.3769 691,-900 800.9316,-874.3312 928.8539,-842.7447 1001.5416,-824.6347"/>
-<polygon fill="#000000" stroke="#000000" points="509.0752,-937.3561 500.0549,-942.9134 510.572,-944.1942 509.0752,-937.3561"/>
-<polygon fill="#000000" stroke="#000000" points="1002.5677,-827.9861 1011.4239,-822.1708 1000.8742,-821.194 1002.5677,-827.9861"/>
+<path fill="none" stroke="#000000" d="M311.0844,-942.4201C367.5417,-932.0116 451.931,-915.9505 525,-900 636.3195,-875.6996 765.4362,-843.4497 838.2458,-824.8857"/>
+<polygon fill="#000000" stroke="#000000" points="310.428,-938.982 301.2257,-944.2325 311.6938,-945.8666 310.428,-938.982"/>
+<polygon fill="#000000" stroke="#000000" points="839.3152,-828.225 848.1382,-822.3593 837.5831,-821.4427 839.3152,-828.225"/>
 </g>
 <!-- Community&#45;&gt;Community_Matters -->
 <g id="edge45" class="edge">
 <title>Community&#45;&gt;Community_Matters</title>
-<path fill="none" stroke="#000000" d="M445.0841,-925.5014C440.1553,-892.7731 430.5347,-837.7095 416,-792 344.4815,-567.084 202,-542.013 202,-306 202,-306 202,-306 202,-162 202,-121.876 202,-75.4631 202,-46.4177"/>
-<polygon fill="#000000" stroke="#000000" points="441.6651,-926.3106 446.576,-935.6986 448.5914,-925.2972 441.6651,-926.3106"/>
-<polygon fill="#000000" stroke="#000000" points="205.5001,-46.1853 202,-36.1854 198.5001,-46.1854 205.5001,-46.1853"/>
+<path fill="none" stroke="#000000" d="M180.7582,-942.5536C150.4732,-934.6549 115.7042,-921.5401 90,-900 26.8705,-847.0975 0,-820.365 0,-738 0,-738 0,-738 0,-162 0,-98.8404 426.0517,-48.1403 627.1836,-27.7247"/>
+<polygon fill="#000000" stroke="#000000" points="180.2903,-946.0429 190.8372,-945.0369 181.9649,-939.2461 180.2903,-946.0429"/>
+<polygon fill="#000000" stroke="#000000" points="627.5764,-31.2029 637.1745,-26.7167 626.8737,-24.2383 627.5764,-31.2029"/>
 </g>
 <!-- Community&#45;&gt;Now_Building -->
 <g id="edge51" class="edge">
 <title>Community&#45;&gt;Now_Building</title>
-<path fill="none" stroke="#000000" d="M381.0642,-944.5332C264.3089,-926.3397 38,-881.8128 38,-810 38,-810 38,-810 38,-234 38,-190.1465 62.2829,-144.307 80.2068,-116.4447"/>
-<polygon fill="#000000" stroke="#000000" points="380.57,-947.9982 390.9854,-946.0569 381.6327,-941.0794 380.57,-947.9982"/>
-<polygon fill="#000000" stroke="#000000" points="83.1593,-118.3253 85.7639,-108.0555 77.3235,-114.4595 83.1593,-118.3253"/>
+<path fill="none" stroke="#000000" d="M193.7127,-937.2198C172.1947,-928.5663 148.2021,-916.3351 130,-900 95.2827,-868.8438 76,-856.6476 76,-810 76,-810 76,-810 76,-306 76,-209.4868 393.4278,-176.6272 549.0249,-166.3175"/>
+<polygon fill="#000000" stroke="#000000" points="192.4866,-940.4981 203.0763,-940.8281 195.0037,-933.9663 192.4866,-940.4981"/>
+<polygon fill="#000000" stroke="#000000" points="549.2813,-169.8083 559.0347,-165.6705 548.8298,-162.8229 549.2813,-169.8083"/>
 </g>
 <!-- Community&#45;&gt;News -->
-<g id="edge104" class="edge">
+<g id="edge110" class="edge">
 <title>Community&#45;&gt;News</title>
-<path fill="none" stroke="#000000" d="M398.5589,-936.2102C348.1225,-914.8141 278,-873.6258 278,-810 278,-810 278,-810 278,-666 278,-505.2087 338.2003,-450.6536 471,-360 508.5624,-334.3587 636.1421,-317.7721 705.7562,-310.4049"/>
-<polygon fill="#000000" stroke="#000000" points="397.4611,-939.5429 408.0412,-940.1012 400.1185,-933.0669 397.4611,-939.5429"/>
-<polygon fill="#000000" stroke="#000000" points="706.413,-313.8557 715.9988,-309.3433 705.6912,-306.893 706.413,-313.8557"/>
+<path fill="none" stroke="#000000" d="M218.3439,-929.9799C190.3739,-903.6852 152,-858.7301 152,-810 152,-810 152,-810 152,-450 152,-347.0354 519.6247,-316.0904 651.5639,-308.3"/>
+<polygon fill="#000000" stroke="#000000" points="216.1701,-932.7345 225.9164,-936.8892 220.8883,-927.5635 216.1701,-932.7345"/>
+<polygon fill="#000000" stroke="#000000" points="651.9689,-311.7826 661.7526,-307.7171 651.5689,-304.7941 651.9689,-311.7826"/>
 </g>
 <!-- Community&#45;&gt;dApps -->
-<g id="edge112" class="edge">
+<g id="edge118" class="edge">
 <title>Community&#45;&gt;dApps</title>
-<path fill="none" stroke="#000000" d="M437.2014,-926.5649C434.0443,-918.1805 430.9663,-908.8377 429,-900 422.0262,-868.6555 424.3345,-860.0832 423,-828 419.6679,-747.8917 415.3227,-725.7255 435,-648 450.8373,-585.4426 478.6401,-514.9067 494.3435,-477.2137"/>
-<polygon fill="#000000" stroke="#000000" points="433.952,-927.8656 440.8821,-935.8797 440.4622,-925.2932 433.952,-927.8656"/>
-<polygon fill="#000000" stroke="#000000" points="497.5995,-478.4998 498.2464,-467.9248 491.146,-475.7883 497.5995,-478.4998"/>
+<path fill="none" stroke="#000000" d="M229.501,-927.485C212.7466,-899.4925 190,-853.4818 190,-810 190,-810 190,-810 190,-738 190,-614.3274 320.4334,-512.0244 382.6807,-470.2437"/>
+<polygon fill="#000000" stroke="#000000" points="226.6832,-929.5837 234.9118,-936.2577 232.6412,-925.909 226.6832,-929.5837"/>
+<polygon fill="#000000" stroke="#000000" points="384.929,-472.9534 391.3463,-464.5231 381.0725,-467.1115 384.929,-472.9534"/>
 </g>
 <!-- Community&#45;&gt;Programmers -->
-<g id="edge106" class="edge">
+<g id="edge112" class="edge">
 <title>Community&#45;&gt;Programmers</title>
-<path fill="none" stroke="#000000" d="M381.8257,-943.2067C352.3803,-935.4819 319.298,-922.3241 296,-900 255.5379,-861.2293 202,-722.0388 202,-666 202,-666 202,-666 202,-522 202,-403.8814 253.2003,-379.4167 328,-288 337.1802,-276.7804 348.9575,-266.1769 359.9595,-257.3853"/>
-<polygon fill="#000000" stroke="#000000" points="381.1062,-946.6339 391.6528,-945.6235 382.778,-939.8365 381.1062,-946.6339"/>
-<polygon fill="#000000" stroke="#000000" points="362.3988,-259.9232 368.1657,-251.0353 358.115,-254.3871 362.3988,-259.9232"/>
+<path fill="none" stroke="#000000" d="M207.5456,-933.0337C168.3339,-909.0141 114,-865.6845 114,-810 114,-810 114,-810 114,-378 114,-306.8356 618.353,-257.3271 819.5552,-240.408"/>
+<polygon fill="#000000" stroke="#000000" points="205.7683,-936.0489 216.1528,-938.1492 209.3446,-930.0314 205.7683,-936.0489"/>
+<polygon fill="#000000" stroke="#000000" points="820.0969,-243.8751 829.771,-239.5551 819.5144,-236.8994 820.0969,-243.8751"/>
 </g>
 <!-- Community&#45;&gt;Business_Owners -->
-<g id="edge108" class="edge">
+<g id="edge114" class="edge">
 <title>Community&#45;&gt;Business_Owners</title>
-<path fill="none" stroke="#000000" d="M462.2432,-927.0646C495.0576,-860.3236 579.8462,-687.8721 612.7099,-621.0306"/>
-<polygon fill="#000000" stroke="#000000" points="459.0488,-925.6293 457.7775,-936.1475 465.3306,-928.7178 459.0488,-925.6293"/>
-<polygon fill="#000000" stroke="#000000" points="615.8982,-622.4785 617.1696,-611.9602 609.6164,-619.3899 615.8982,-622.4785"/>
+<path fill="none" stroke="#000000" d="M248.3814,-925.8055C252.0147,-878.6483 265.1969,-782.7784 313,-720 354.4182,-665.6066 426.465,-631.3549 478.0848,-612.5205"/>
+<polygon fill="#000000" stroke="#000000" points="244.8815,-925.6853 247.6943,-935.9 251.8654,-926.1608 244.8815,-925.6853"/>
+<polygon fill="#000000" stroke="#000000" points="479.5459,-615.7158 487.7971,-609.0698 477.2024,-609.1198 479.5459,-615.7158"/>
 </g>
 <!-- Community&#45;&gt;Markets -->
-<g id="edge100" class="edge">
+<g id="edge106" class="edge">
 <title>Community&#45;&gt;Markets</title>
-<path fill="none" stroke="#000000" d="M481.9731,-931.1801C494.3659,-922.0319 508.2809,-911.0483 520,-900 566.7832,-855.8946 613.9978,-797.1642 639.5714,-763.8899"/>
-<polygon fill="#000000" stroke="#000000" points="479.7189,-928.4914 473.6824,-937.1984 483.8311,-934.1563 479.7189,-928.4914"/>
-<polygon fill="#000000" stroke="#000000" points="642.6077,-765.6805 645.8931,-755.608 637.0434,-761.4332 642.6077,-765.6805"/>
+<path fill="none" stroke="#000000" d="M264.2352,-927.3475C269.5345,-918.7541 275.2246,-909.0974 280,-900 304.4136,-853.491 300.7531,-836.9079 328,-792 334.0921,-781.9591 341.8214,-771.6923 349.0416,-762.844"/>
+<polygon fill="#000000" stroke="#000000" points="261.2517,-925.5173 258.909,-935.8499 267.1839,-929.2334 261.2517,-925.5173"/>
+<polygon fill="#000000" stroke="#000000" points="351.7348,-765.0794 355.4678,-755.164 346.3662,-760.5873 351.7348,-765.0794"/>
 </g>
 <!-- Community&#45;&gt;Blogs -->
-<g id="edge102" class="edge">
+<g id="edge108" class="edge">
 <title>Community&#45;&gt;Blogs</title>
-<path fill="none" stroke="#000000" d="M453.3852,-925.9345C461.9906,-870.8602 480.9988,-749.2075 489.6089,-694.103"/>
-<polygon fill="#000000" stroke="#000000" points="449.9008,-925.5638 451.815,-935.9843 456.8168,-926.6445 449.9008,-925.5638"/>
-<polygon fill="#000000" stroke="#000000" points="493.1003,-694.4294 491.1861,-684.0089 486.1842,-693.3487 493.1003,-694.4294"/>
+<path fill="none" stroke="#000000" d="M273.0753,-929.0545C282.3346,-920.0251 292.7503,-909.6701 302,-900 346.5964,-853.3767 353.0066,-837.2457 399,-792 438.1165,-753.5194 486.8468,-712.4558 516.6758,-688.0243"/>
+<polygon fill="#000000" stroke="#000000" points="270.363,-926.8092 265.6203,-936.2833 275.236,-931.8346 270.363,-926.8092"/>
+<polygon fill="#000000" stroke="#000000" points="519.027,-690.6231 524.5642,-681.5904 514.6027,-685.1986 519.027,-690.6231"/>
 </g>
 <!-- Investors&#45;&gt;Markets -->
-<g id="edge67" class="edge">
+<g id="edge73" class="edge">
 <title>Investors&#45;&gt;Markets</title>
-<path fill="none" stroke="#000000" d="M686.0767,-783.3377C682.3614,-777.1167 678.4073,-770.496 674.7017,-764.2912"/>
-<polygon fill="#000000" stroke="#000000" points="683.2384,-785.4114 691.3708,-792.2022 689.2482,-781.8222 683.2384,-785.4114"/>
-<polygon fill="#000000" stroke="#000000" points="677.6393,-762.3839 669.5069,-755.593 671.6295,-765.9731 677.6393,-762.3839"/>
+<path fill="none" stroke="#000000" d="M432.8761,-786.9569C422.2927,-778.5832 410.3453,-769.1303 399.7909,-760.7796"/>
+<polygon fill="#000000" stroke="#000000" points="430.8801,-789.8407 440.894,-793.3008 435.2235,-784.3511 430.8801,-789.8407"/>
+<polygon fill="#000000" stroke="#000000" points="401.6917,-757.8205 391.6778,-754.3604 397.3483,-763.3101 401.6917,-757.8205"/>
 </g>
 </g>
 </svg>

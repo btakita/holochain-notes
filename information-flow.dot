@@ -51,7 +51,11 @@ digraph	"Software Flow" {
 	Dev_Pulse -> Programmers -> Dev_Pulse;
 	Community_Matters -> Community -> Community_Matters;
 	Dev_Pulse -> Community_Matters -> Dev_Pulse -> Now_Building -> Dev_Pulse;
-	Now_Building -> Community -> Now_Building -> Community_Matters -> Now_Building;
+	Now_Building -> Community -> Now_Building;
+	Now_Building -> Community_Matters -> Now_Building;
+	Now_Building -> Business_Owners -> Now_Building;
+	Now_Building -> Programmers -> Now_Building;
+	Community_Matters -> Programmers -> Community_Matters;
 	Blogs -> Team -> Blogs;
 	Blogs -> Core_Developers -> Blogs;
 	Blogs -> Programmers -> Blogs;
