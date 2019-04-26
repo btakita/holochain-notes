@@ -1,37 +1,44 @@
-digraph	"Software Flow"	{
-	concentrate=true;
+digraph	"Software Flow" {
+	concentrate = true;
 
-    Source_Code[href="https://github.com/holochain/holochain-rust"];
-    Team[href="https://holo.host/team/"];
-    Core_Developers[href="https://github.com/holochain/holochain-rust/graphs/contributors"];
-    Software_Releases[href="https://github.com/holochain/holochain-rust/releases"];
-    Hosts[href="https://holo.host/host/"];
-    Documentation[href="https://developer.holochain.org/"];
-    API_Docs[href="https://developer.holochain.org/api/latest/hdk/"]
-    Guide_Book[href="https://developer.holochain.org/guide/latest/welcome.html"]
-    Dev_Pulse[href="https://medium.com/holochain"]
-    Community_Matters[href="https://medium.com/holochain/tagged/community-matters"]
-    Now_Building[href="https://medium.com/holochain/tagged/now-building"]
+	Whitepapers [href = "https://holo.host/whitepapers/"];
+	Source_Code [href = "https://github.com/holochain/holochain-rust"];
+	Team [href = "https://holo.host/team/"];
+	Core_Developers [href = "https://github.com/holochain/holochain-rust/graphs/contributors"];
+	Software_Releases [href = "https://github.com/holochain/holochain-rust/releases"];
+	Hosts [href = "https://holo.host/host/"];
+	Documentation [href = "https://developer.holochain.org/"];
+	Dev_Quick_Start [href = "https://developer.holochain.org/start.html"];
+	API_Docs [href = "https://developer.holochain.org/api/latest/hdk/"]
+	Guide_Book [href = "https://developer.holochain.org/guide/latest/welcome.html"]
+	Dev_Pulse [href = "https://medium.com/holochain"]
+	Community_Matters [href = "https://medium.com/holochain/tagged/community-matters"]
+	Now_Building [href = "https://medium.com/holochain/tagged/now-building"]
 
+	Whitepapers -> Source_Code;
 	Source_Code -> Software_Releases;
 	Source_Code -> Core_Developers -> Source_Code;
+	Source_Code -> Dev_Quick_Start;
 	Software_Releases -> API_Docs;
 	Software_Releases -> News;
 	Software_Releases -> Libraries;
 	Software_Releases -> dApps;
 	Software_Releases -> Hosts;
 	Software_Releases -> Press_Releases;
-	Software_Releases -> Documentation;
+	Software_Releases -> API_Docs;
+	Software_Releases -> Dev_Quick_Start;
+	Software_Releases -> Dev_Pulse;
+	Software_Releases -> Guide_Book;
 	Software_Releases -> Programmers;
- 	Libraries -> dApps;
+	Libraries -> dApps;
 	dApps -> Business_Owners;
 	dApps -> End_Users -> dApps;
-	Documentation -> Dev_Pulse;
-	Documentation -> Programmers;
 	API_Docs -> Dev_Pulse;
 	API_Docs -> Programmers;
 	Guide_Book -> Programmers;
 	Guide_Book -> Business_Owners;
+	Guide_Book -> Dev_Pulse;
+	Guide_Book -> Core_Developers -> Guide_Book;
 	Press_Releases -> News;
 	Press_Releases -> Business_Owners;
 	Press_Releases -> Markets;
@@ -40,29 +47,30 @@ digraph	"Software Flow"	{
 	News -> Blogs -> News;
 	News -> Business_Owners -> News;
 	News -> End_Users -> News;
+	News -> Markets -> News;
 	Dev_Pulse -> Programmers -> Dev_Pulse;
-    Community_Matters -> Community -> Community_Matters;
+	Community_Matters -> Community -> Community_Matters;
 	Dev_Pulse -> Community_Matters -> Dev_Pulse -> Now_Building -> Dev_Pulse;
 	Now_Building -> Community -> Now_Building -> Community_Matters -> Now_Building;
 	Blogs -> Team -> Blogs;
 	Blogs -> Core_Developers -> Blogs;
 	Blogs -> Programmers -> Blogs;
 	Blogs -> Business_Owners -> Blogs;
+	Blogs -> Markets -> Blogs;
 	Markets -> Hosts -> Markets;
 	Markets -> Investors -> Markets;
 	Markets -> End_Users -> Markets;
 	Team -> Core_Developers -> Team;
 	Team -> Press_Releases;
-	Team -> Documentation -> Team;
+	Team -> Guide_Book -> Team;
 	Team -> News -> Team;
 	Team -> Markets -> Team;
 	Team -> Investors -> Team;
 	Core_Developers -> API_Docs -> Core_Developers;
-	Core_Developers -> Documentation -> Core_Developers;
+	Core_Developers -> Guide_Book -> Core_Developers;
 	Core_Developers -> Dev_Pulse -> Core_Developers;
 	Core_Developers -> Programmers -> Core_Developers;
 	Core_Developers -> Software_Releases;
-	Core_Developers -> Guide_Book -> Core_Developers;
 	Hosts -> dApps -> Hosts;
 	Hosts -> Business_Owners -> Hosts;
 	Hosts -> End_Users -> Hosts;
@@ -73,7 +81,7 @@ digraph	"Software Flow"	{
 	Community -> News -> Community;
 	Community -> Programmers -> Community;
 	Community -> Business_Owners -> Community;
-	Community -> Documentation -> Community;
+	Community -> Guide_Book -> Community;
 	Community -> dApps -> Community;
 	Community -> Hosts -> Community;
 	Programmers -> Source_Code -> Programmers;
