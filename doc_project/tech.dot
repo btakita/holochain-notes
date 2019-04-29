@@ -1,4 +1,4 @@
-digraph	"Dev Tools" {
+digraph	"doc project tech" {
 	concentrate = true;
 
 	Guide_Book[href="https://developer.holochain.org/guide/latest/"];
