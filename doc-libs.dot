@@ -1,0 +1,21 @@
+digraph	"Dev Tools" {
+	concentrate = true;
+
+	Guide_Book[href="https://developer.holochain.org/guide/latest/"];
+
+	searcher_js[href="https://developer.holochain.org/guide/latest/searcher.js"];
+	Elasticlunr_js[href="http://elasticlunr.com/"];
+	Mark_js[href = "https://markjs.io/"];
+
+	book_js[href="https://developer.holochain.org/guide/latest/book.js"];
+	clipboardjs[href="https://clipboardjs.com/"];
+	highlight_js[href="https://highlightjs.org/"];
+
+	Guide_Book -> searcher_js;
+	searcher_js -> Elasticlunr_js;
+	searcher_js -> Mark_js;
+
+	Guide_Book -> book_js;
+	book_js -> clipboardjs;
+	book_js -> highlight_js;
+}

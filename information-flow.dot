@@ -1,4 +1,4 @@
-digraph	"Software Flow" {
+digraph	"Information Flow" {
 	concentrate = true;
 
 	Whitepapers [href = "https://holo.host/whitepapers/"];
