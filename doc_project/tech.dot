@@ -1,21 +1,55 @@
 digraph	"doc project tech" {
 	concentrate = true;
 
-	Guide_Book[href="https://developer.holochain.org/guide/latest/"];
+	subgraph Features {
+		Search;
+		Code_Block;
+	}
 
-	searcher_js[href="https://developer.holochain.org/guide/latest/searcher.js"];
-	Elasticlunr_js[href="http://elasticlunr.com/"];
-	Mark_js[href = "https://markjs.io/"];
+	subgraph Third_Party_Libraries {
+		Elasticlunr_js[href="http://elasticlunr.com/"];
+		Mark_js[href = "https://markjs.io/"];
+		clipboard_js[href="https://clipboardjs.com/"];
+		highlight_js[href="https://highlightjs.org/"];
+	}
+	Search -> Elasticlunr_js;
+	Code_Block -> clipboard_js;
+	Code_Block -> highlight_js;
 
-	book_js[href="https://developer.holochain.org/guide/latest/book.js"];
-	clipboardjs[href="https://clipboardjs.com/"];
-	highlight_js[href="https://highlightjs.org/"];
+	subgraph Guide_Book {
+		Guide_Book[href="https://developer.holochain.org/guide/latest/"];
 
-	Guide_Book -> searcher_js;
-	searcher_js -> Elasticlunr_js;
-	searcher_js -> Mark_js;
+		searcher_js[href="https://developer.holochain.org/guide/latest/searcher.js"];
+		searcher_js_example[href="https://developer.holochain.org/guide/latest/first_steps.html?search=zome"];
 
-	Guide_Book -> book_js;
-	book_js -> clipboardjs;
-	book_js -> highlight_js;
+		Guide_Book_js[href="https://developer.holochain.org/guide/latest/book.js"];
+
+		Guide_Book -> searcher_js;
+		searcher_js -> Elasticlunr_js;
+		searcher_js -> Mark_js;
+		searcher_js -> searcher_js_example;
+
+		Guide_Book -> Guide_Book_js;
+		Guide_Book_js -> clipboard_js;
+		Guide_Book_js -> highlight_js;
+	}
+	Search -> searcher_js;
+	Code_Block -> Guide_Book_js;
+
+	subgraph HDK {
+		HDK[href="https://developer.holochain.org/api/latest/hdk/"];
+
+		HDK_storage_js[href="https://developer.holochain.org/api/latest/storage.js"];
+		HDK_theme_js[href="https://developer.holochain.org/api/latest/theme.js"];
+		HDK_aliases_js[href="https://developer.holochain.org/api/latest/aliases.js"];
+		HDK_main_js[href="https://developer.holochain.org/api/latest/main.js"];
+		HDK_search_index_js[href="https://developer.holochain.org/api/latest/search-index.js"];
+
+		HDK -> HDK_storage_js;
+		HDK -> HDK_theme_js;
+		HDK -> HDK_aliases_js;
+		HDK -> HDK_main_js;
+		HDK -> HDK_search_index_js;
+	}
+	Search -> HDK_search_index_js;
 }
